@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Vendor,Amount,Currency,Department,Transaction_Type,Approval_Status,Risk_Flag,Description
+TXN000000,2025-07-06,VendorE,83419.29,USD,Operations,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000001,2025-09-26,VendorA,7046.96,USD,Marketing,Payment,Approved,0,Monthly subscription fee
+TXN000002,2025-12-27,VendorB,86192.94,USD,Marketing,Refund,Approved,0,High risk international transaction
+TXN000003,2025-06-22,VendorB,35406.08,USD,Marketing,Purchase,Approved,0,High risk international transaction
+TXN000004,2025-07-30,VendorB,47508.29,USD,HR,Transfer,Pending,0,Purchase of office supplies
+TXN000005,2026-02-04,VendorC,15007.32,USD,HR,Purchase,,0,Urgent wire transfer overseas
+TXN000006,2025-11-17,VendorA,67476.1,USD,Finance,Purchase,,0,High risk international transaction
+TXN000007,2025-06-15,VendorC,5917.86,USD,HR,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000008,2025-04-17,VendorC,6332.37,USD,HR,Refund,Approved,0,Urgent wire transfer overseas
+TXN000009,2025-07-24,VendorD,70914.29,USD,Operations,Transfer,Rejected,0,Monthly subscription fee
+TXN000010,2025-03-24,VendorB,40958.84,USD,IT,Purchase,Rejected,0,Unusual large amount transfer
+TXN000011,2025-11-16,VendorD,80264.08,USD,HR,Transfer,Approved,0,Monthly subscription fee
+TXN000012,2025-12-09,VendorE,58136.23,USD,HR,Transfer,Pending,0,Unusual large amount transfer
+TXN000013,2026-02-10,VendorB,47644.41,USD,HR,Refund,Rejected,0,Regular payment for services
+TXN000014,2025-08-13,VendorC,47317.26,USD,HR,Payment,Approved,0,High risk international transaction
+TXN000015,2026-02-23,VendorD,28337.8,USD,IT,Payment,Pending,0,Regular payment for services
+TXN000016,2025-09-09,VendorE,36524.63,USD,Operations,Refund,,0,Urgent wire transfer overseas
+TXN000017,2025-10-01,VendorD,78559.92,USD,Operations,Payment,Approved,0,High risk international transaction
+TXN000018,2026-02-16,VendorA,73839.44,USD,Marketing,Transfer,Pending,0,Purchase of office supplies
+TXN000019,2025-04-30,VendorE,22330.93,USD,Marketing,Refund,Rejected,0,Unusual large amount transfer
+TXN000020,2025-08-04,VendorD,74597.03,USD,Operations,Refund,Approved,0,Monthly subscription fee
+TXN000021,2025-09-17,VendorC,69971.91,USD,Operations,Purchase,,0,Monthly subscription fee
+TXN000022,2026-01-31,VendorC,16565.33,USD,Marketing,Transfer,Rejected,0,Monthly subscription fee
+TXN000023,2025-09-04,VendorA,72289.06,USD,HR,Refund,Rejected,0,Monthly subscription fee
+TXN000024,2025-08-27,VendorA,43724.0,USD,IT,Payment,Approved,0,Purchase of office supplies
+TXN000025,2026-02-16,VendorA,92810.9,USD,IT,Purchase,Pending,0,Monthly subscription fee
+TXN000026,2025-10-02,VendorE,1371.23,USD,HR,Transfer,Pending,0,Regular payment for services
+TXN000027,2025-12-23,VendorD,12752.35,USD,Finance,Transfer,Rejected,0,Unusual large amount transfer
+TXN000028,2025-04-09,VendorC,73580.45,USD,Operations,Purchase,Rejected,0,Standard vendor payment
+TXN000029,2025-12-14,VendorA,57380.86,USD,Marketing,Payment,Pending,0,Monthly subscription fee
+TXN000030,2025-10-02,VendorD,63475.24,USD,Operations,Refund,Approved,0,Urgent wire transfer overseas
+TXN000031,2026-01-15,VendorB,41767.18,USD,Marketing,Refund,,0,Unusual large amount transfer
+TXN000032,2025-12-25,VendorB,86849.26,USD,IT,Payment,Pending,0,High risk international transaction
+TXN000033,2026-02-15,VendorE,75804.59,USD,HR,Transfer,Approved,0,High risk international transaction
+TXN000034,2025-05-05,VendorA,75146.63,USD,HR,Refund,Approved,1,Unusual large amount transfer
+TXN000035,2026-01-12,VendorA,12596.9,USD,Operations,Refund,Approved,0,Purchase of office supplies
+TXN000036,2025-12-05,VendorB,20697.51,USD,Marketing,Purchase,Pending,0,Purchase of office supplies
+TXN000037,2025-09-20,VendorE,1511.94,USD,Operations,Payment,Pending,0,Unusual large amount transfer
+TXN000038,2025-04-23,VendorD,23990.84,USD,Operations,Transfer,Pending,0,Standard vendor payment
+TXN000039,2025-10-16,VendorC,66072.48,USD,IT,Transfer,Rejected,0,Regular payment for services
+TXN000040,2025-08-19,VendorC,54151.25,USD,Operations,Refund,Approved,0,Monthly subscription fee
+TXN000041,2025-10-27,VendorE,80681.71,USD,Finance,Payment,Pending,0,Standard vendor payment
+TXN000042,2025-12-29,VendorA,68927.99,USD,Marketing,Refund,Approved,0,Monthly subscription fee
+TXN000043,2025-11-10,VendorB,60609.13,USD,Operations,Payment,Approved,0,Purchase of office supplies
+TXN000044,2026-03-14,VendorB,4524.5,USD,Finance,Refund,,0,Regular payment for services
+TXN000045,2025-10-25,VendorA,53701.92,USD,HR,Transfer,Pending,0,High risk international transaction
+TXN000046,2026-01-28,VendorC,43531.94,USD,IT,Payment,,0,High risk international transaction
+TXN000047,2025-05-18,VendorD,83226.92,USD,Marketing,Refund,Rejected,0,Purchase of office supplies
+TXN000048,2026-02-19,VendorE,2428.09,USD,Operations,Payment,Pending,0,Monthly subscription fee
+TXN000049,2025-09-19,VendorD,99499.95,USD,Operations,Payment,,0,Purchase of office supplies
+TXN000050,2026-01-18,VendorC,1789.03,USD,IT,Refund,Rejected,1,Monthly subscription fee
+TXN000051,2025-06-19,VendorB,63631.88,USD,IT,Transfer,Rejected,0,Purchase of office supplies
+TXN000052,2025-12-30,VendorD,11733.03,USD,HR,Payment,,0,High risk international transaction
+TXN000053,2025-10-09,VendorC,94327.67,USD,Finance,Purchase,Pending,0,Regular payment for services
+TXN000054,2025-11-12,VendorE,79512.1,USD,Marketing,Purchase,Rejected,0,Monthly subscription fee
+TXN000055,2025-03-18,VendorE,5727.43,USD,HR,Transfer,Pending,0,Regular payment for services
+TXN000056,2026-02-16,VendorA,85277.83,USD,Finance,Payment,Approved,0,Standard vendor payment
+TXN000057,2026-01-12,VendorC,39776.57,USD,Marketing,Refund,Rejected,1,Monthly subscription fee
+TXN000058,2025-06-11,VendorB,13321.05,USD,Operations,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000059,2025-07-23,VendorD,88952.79,USD,Marketing,Purchase,Approved,0,Regular payment for services
+TXN000060,2025-05-10,VendorD,74827.71,USD,Marketing,Payment,Rejected,0,Unusual large amount transfer
+TXN000061,2025-11-08,VendorA,17272.61,USD,Operations,Transfer,Approved,0,Purchase of office supplies
+TXN000062,2025-06-25,VendorC,77314.78,USD,Operations,Transfer,Approved,0,Monthly subscription fee
+TXN000063,2025-12-23,VendorC,80640.73,USD,Finance,Payment,Pending,0,Urgent wire transfer overseas
+TXN000064,2025-05-20,VendorD,85677.9,USD,HR,Refund,Pending,0,High risk international transaction
+TXN000065,2025-03-16,VendorA,19903.57,USD,Finance,Purchase,,0,Unusual large amount transfer
+TXN000066,2025-10-19,VendorB,38764.35,USD,IT,Refund,,0,Standard vendor payment
+TXN000067,2026-03-14,VendorD,3179.72,USD,Operations,Payment,Rejected,0,Standard vendor payment
+TXN000068,2026-02-05,VendorB,44964.47,USD,HR,Refund,Pending,0,Regular payment for services
+TXN000069,2026-02-06,VendorA,11792.62,USD,Operations,Transfer,,0,Urgent wire transfer overseas
+TXN000070,2025-08-18,VendorE,17960.51,USD,IT,Refund,Rejected,0,Unusual large amount transfer
+TXN000071,2025-11-03,VendorB,49174.58,USD,Finance,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000072,2025-10-10,VendorC,96606.03,USD,IT,Refund,Approved,0,Standard vendor payment
+TXN000073,2025-10-09,VendorB,37658.69,USD,IT,Purchase,Pending,0,High risk international transaction
+TXN000074,2025-04-17,VendorC,99231.97,USD,Operations,Transfer,,0,Urgent wire transfer overseas
+TXN000075,2026-02-26,VendorE,71452.18,USD,HR,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000076,2025-10-23,VendorA,92313.18,USD,IT,Refund,Pending,1,High risk international transaction
+TXN000077,2026-02-10,VendorD,38441.72,USD,IT,Refund,Pending,0,Monthly subscription fee
+TXN000078,2026-01-16,VendorE,2904.04,USD,Operations,Refund,Rejected,0,High risk international transaction
+TXN000079,2026-02-15,VendorB,18173.92,USD,IT,Transfer,Pending,0,High risk international transaction
+TXN000080,2025-07-27,VendorE,74322.03,USD,Operations,Payment,Approved,0,High risk international transaction
+TXN000081,2026-02-12,VendorB,90454.91,USD,Operations,Transfer,Approved,0,Standard vendor payment
+TXN000082,2025-04-19,VendorB,58741.18,USD,Operations,Transfer,,0,Monthly subscription fee
+TXN000083,2025-03-16,VendorD,11518.02,USD,Finance,Transfer,,0,Unusual large amount transfer
+TXN000084,2025-06-09,VendorC,34161.47,USD,HR,Purchase,Approved,0,Purchase of office supplies
+TXN000085,2025-07-24,VendorE,92524.82,USD,IT,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000086,2025-07-01,VendorA,85914.2,USD,Operations,Payment,,0,Unusual large amount transfer
+TXN000087,2025-04-05,VendorC,93655.41,USD,Finance,Refund,Rejected,1,Monthly subscription fee
+TXN000088,2026-01-19,VendorE,83455.39,USD,Marketing,Refund,,0,High risk international transaction
+TXN000089,2025-09-25,VendorD,82356.21,USD,Marketing,Refund,Approved,0,Unusual large amount transfer
+TXN000090,2025-05-07,VendorC,56689.1,USD,Operations,Refund,Pending,0,Standard vendor payment
+TXN000091,2025-11-02,VendorC,529.86,USD,IT,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000092,2025-07-29,VendorE,4408.51,USD,Operations,Refund,Pending,0,Purchase of office supplies
+TXN000093,2025-10-05,VendorD,14038.76,USD,Operations,Refund,Approved,0,Unusual large amount transfer
+TXN000094,2026-01-27,VendorD,23742.26,USD,Operations,Payment,Pending,0,Unusual large amount transfer
+TXN000095,2025-10-25,VendorE,5359.64,USD,Marketing,Payment,Approved,0,High risk international transaction
+TXN000096,2025-11-27,VendorD,52742.58,USD,HR,Refund,,0,Monthly subscription fee
+TXN000097,2025-06-11,VendorD,81598.24,USD,HR,Payment,Approved,0,Regular payment for services
+TXN000098,2025-04-03,VendorC,58932.25,USD,IT,Purchase,Rejected,0,Regular payment for services
+TXN000099,2025-10-16,VendorA,31233.27,USD,Operations,Purchase,Pending,0,Regular payment for services
+TXN000100,2025-08-24,VendorC,53101.84,USD,Operations,Purchase,Pending,0,High risk international transaction
+TXN000101,2025-05-17,VendorB,36410.29,USD,HR,Transfer,Rejected,0,Regular payment for services
+TXN000102,2026-01-31,VendorE,49722.43,USD,Marketing,Purchase,Pending,0,Purchase of office supplies
+TXN000103,2025-05-16,VendorC,57477.96,USD,HR,Transfer,Approved,0,Monthly subscription fee
+TXN000104,2025-07-17,VendorC,38320.16,USD,Operations,Transfer,Pending,0,Monthly subscription fee
+TXN000105,2025-06-21,VendorB,20048.11,USD,IT,Refund,Approved,0,Monthly subscription fee
+TXN000106,2025-12-06,VendorC,4479.87,USD,Finance,Payment,Rejected,0,Monthly subscription fee
+TXN000107,2026-02-24,VendorC,6269.7,USD,IT,Transfer,Rejected,0,Unusual large amount transfer
+TXN000108,2025-07-28,VendorE,65554.18,USD,HR,Refund,Approved,0,Standard vendor payment
+TXN000109,2025-04-24,VendorD,24517.8,USD,Marketing,Transfer,,0,Purchase of office supplies
+TXN000110,2025-09-15,VendorD,49544.15,USD,IT,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000111,2025-08-03,VendorC,17645.11,USD,IT,Transfer,Rejected,0,Purchase of office supplies
+TXN000112,2025-11-18,VendorC,15733.58,USD,Marketing,Transfer,Approved,0,Purchase of office supplies
+TXN000113,2025-07-29,VendorB,32251.45,USD,Finance,Refund,,0,Monthly subscription fee
+TXN000114,2025-03-25,VendorB,67583.33,USD,Operations,Payment,Rejected,0,Regular payment for services
+TXN000115,2025-03-17,VendorB,76338.31,USD,HR,Purchase,Rejected,0,Regular payment for services
+TXN000116,2026-03-06,VendorD,49688.47,USD,IT,Refund,Rejected,0,Urgent wire transfer overseas
+TXN000117,2025-03-18,VendorA,82258.49,USD,Marketing,Purchase,Rejected,0,Regular payment for services
+TXN000118,2025-08-04,VendorD,20288.42,USD,IT,Payment,Pending,0,Unusual large amount transfer
+TXN000119,2026-02-08,VendorE,50157.05,USD,HR,Refund,Rejected,0,Regular payment for services
+TXN000120,2025-05-17,VendorA,10792.1,USD,Finance,Purchase,Pending,0,Regular payment for services
+TXN000121,2025-06-05,VendorC,45593.5,USD,Marketing,Payment,Approved,0,Purchase of office supplies
+TXN000122,2025-06-06,VendorA,57454.47,USD,HR,Refund,Rejected,0,Unusual large amount transfer
+TXN000123,2025-11-04,VendorA,70762.3,USD,HR,Refund,Approved,0,High risk international transaction
+TXN000124,2025-10-08,VendorC,25058.23,USD,Operations,Purchase,Rejected,0,Regular payment for services
+TXN000125,2025-12-14,VendorA,55664.41,USD,IT,Refund,Approved,0,Unusual large amount transfer
+TXN000126,2026-02-19,VendorE,53285.61,USD,Marketing,Purchase,,0,Monthly subscription fee
+TXN000127,2026-01-20,VendorD,33388.65,USD,Marketing,Transfer,,0,Urgent wire transfer overseas
+TXN000128,2025-07-12,VendorA,22127.0,USD,Operations,Transfer,,0,Regular payment for services
+TXN000129,2026-03-03,VendorC,41326.76,USD,Operations,Payment,,1,High risk international transaction
+TXN000130,2026-02-14,VendorA,64308.48,USD,Marketing,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000131,2025-04-27,VendorE,28220.15,USD,IT,Purchase,Pending,0,Unusual large amount transfer
+TXN000132,2025-09-04,VendorC,20486.8,USD,IT,Payment,Rejected,0,Standard vendor payment
+TXN000133,2025-10-21,VendorC,9733.26,USD,Finance,Refund,,0,High risk international transaction
+TXN000134,2026-03-09,VendorA,74196.01,USD,IT,Payment,Approved,0,Regular payment for services
+TXN000135,2026-01-25,VendorB,79820.83,USD,Marketing,Refund,Pending,0,Unusual large amount transfer
+TXN000136,2025-09-28,VendorA,41386.1,USD,Marketing,Refund,Approved,0,Standard vendor payment
+TXN000137,2025-11-29,VendorD,77501.61,USD,Finance,Refund,Approved,0,Urgent wire transfer overseas
+TXN000138,2025-04-30,VendorB,69341.94,USD,IT,Payment,Approved,0,Unusual large amount transfer
+TXN000139,2025-10-05,VendorE,56935.99,USD,Marketing,Transfer,Approved,0,Regular payment for services
+TXN000140,2025-09-30,VendorA,89949.81,USD,Marketing,Refund,,0,Regular payment for services
+TXN000141,2025-03-25,VendorD,20222.62,USD,Finance,Transfer,,0,Unusual large amount transfer
+TXN000142,2025-05-18,VendorC,21997.66,USD,Finance,Transfer,Rejected,0,Standard vendor payment
+TXN000143,2025-04-23,VendorD,99680.05,USD,IT,Purchase,Pending,1,Standard vendor payment
+TXN000144,2025-11-20,VendorB,65619.06,USD,HR,Purchase,Pending,1,Regular payment for services
+TXN000145,2026-01-25,VendorC,32168.49,USD,IT,Transfer,Approved,0,Regular payment for services
+TXN000146,2025-08-19,VendorA,8221.0,USD,Finance,Transfer,Rejected,0,Monthly subscription fee
+TXN000147,2025-07-17,VendorE,63725.82,USD,Finance,Refund,Rejected,0,High risk international transaction
+TXN000148,2025-04-03,VendorC,32362.41,USD,Operations,Purchase,Pending,0,Monthly subscription fee
+TXN000149,2026-02-09,VendorD,57127.61,USD,HR,Transfer,Pending,0,Purchase of office supplies
+TXN000150,2026-01-07,VendorD,28292.01,USD,HR,Transfer,,0,Regular payment for services
+TXN000151,2025-08-29,VendorA,53785.15,USD,Finance,Payment,,0,Unusual large amount transfer
+TXN000152,2025-11-21,VendorA,63685.86,USD,Marketing,Transfer,Approved,0,Monthly subscription fee
+TXN000153,2025-07-14,VendorC,16182.36,USD,HR,Refund,,0,Unusual large amount transfer
+TXN000154,2025-09-07,VendorB,65998.04,USD,HR,Payment,,0,Regular payment for services
+TXN000155,2025-09-28,VendorD,74691.14,USD,HR,Payment,Rejected,0,Purchase of office supplies
+TXN000156,2026-02-24,VendorC,93941.72,USD,Finance,Payment,Rejected,0,Standard vendor payment
+TXN000157,2025-10-13,VendorE,22266.75,USD,Operations,Refund,Approved,0,High risk international transaction
+TXN000158,2025-05-12,VendorB,63671.63,USD,Finance,Payment,Approved,0,Standard vendor payment
+TXN000159,2025-05-09,VendorD,32040.96,USD,Operations,Refund,,0,Monthly subscription fee
+TXN000160,2025-08-20,VendorE,59939.51,USD,Operations,Transfer,Pending,0,High risk international transaction
+TXN000161,2026-01-03,VendorB,38735.14,USD,Finance,Refund,Pending,0,Urgent wire transfer overseas
+TXN000162,2025-08-14,VendorC,92659.59,USD,Marketing,Payment,Rejected,0,High risk international transaction
+TXN000163,2025-12-16,VendorB,68926.08,USD,Operations,Purchase,Approved,0,High risk international transaction
+TXN000164,2025-09-22,VendorB,79023.95,USD,Operations,Payment,Rejected,0,Monthly subscription fee
+TXN000165,2026-02-04,VendorA,38393.93,USD,Marketing,Transfer,Approved,0,Standard vendor payment
+TXN000166,2026-01-11,VendorA,33972.53,USD,Finance,Payment,Rejected,0,Unusual large amount transfer
+TXN000167,2026-02-19,VendorB,85969.84,USD,HR,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000168,2025-04-16,VendorC,14005.38,USD,Marketing,Purchase,Approved,0,Purchase of office supplies
+TXN000169,2025-08-07,VendorD,55283.62,USD,IT,Payment,Rejected,0,Standard vendor payment
+TXN000170,2025-06-21,VendorC,79762.89,USD,HR,Purchase,Pending,0,Unusual large amount transfer
+TXN000171,2025-08-23,VendorC,72803.27,USD,HR,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000172,2025-06-02,VendorA,62423.06,USD,Finance,Transfer,Pending,0,Purchase of office supplies
+TXN000173,2025-09-19,VendorB,45668.85,USD,Marketing,Transfer,Pending,1,Unusual large amount transfer
+TXN000174,2025-09-23,VendorE,21869.31,USD,Finance,Payment,,0,Standard vendor payment
+TXN000175,2026-01-31,VendorE,68839.77,USD,HR,Transfer,,0,Standard vendor payment
+TXN000176,2026-01-12,VendorB,67310.27,USD,HR,Refund,Approved,0,Urgent wire transfer overseas
+TXN000177,2026-02-07,VendorA,24900.67,USD,Finance,Refund,Approved,0,Unusual large amount transfer
+TXN000178,2026-03-04,VendorB,24806.76,USD,Marketing,Payment,Rejected,0,High risk international transaction
+TXN000179,2025-04-26,VendorA,23819.65,USD,IT,Purchase,Rejected,0,Purchase of office supplies
+TXN000180,2025-12-07,VendorC,53148.26,USD,Marketing,Payment,Approved,0,High risk international transaction
+TXN000181,2026-01-12,VendorC,93022.12,USD,IT,Refund,Approved,0,Monthly subscription fee
+TXN000182,2025-11-21,VendorE,98043.77,USD,IT,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000183,2025-06-12,VendorC,42320.39,USD,IT,Payment,Pending,0,Standard vendor payment
+TXN000184,2026-01-06,VendorE,75371.97,USD,Operations,Payment,Pending,0,Regular payment for services
+TXN000185,2026-01-31,VendorB,51421.37,USD,HR,Payment,Approved,0,Unusual large amount transfer
+TXN000186,2025-04-20,VendorA,17770.57,USD,Operations,Refund,,0,High risk international transaction
+TXN000187,2025-11-12,VendorB,20037.0,USD,Marketing,Refund,,0,Unusual large amount transfer
+TXN000188,2025-12-19,VendorB,5851.46,USD,HR,Refund,Rejected,0,Purchase of office supplies
+TXN000189,2025-12-20,VendorC,42255.43,USD,HR,Refund,Rejected,0,Regular payment for services
+TXN000190,2025-12-06,VendorB,37098.27,USD,Marketing,Purchase,,0,Regular payment for services
+TXN000191,2026-02-18,VendorB,98430.84,USD,Finance,Refund,Approved,0,Monthly subscription fee
+TXN000192,2025-08-22,VendorE,7954.57,USD,Finance,Payment,,0,Regular payment for services
+TXN000193,2025-05-19,VendorC,20095.78,USD,HR,Transfer,Rejected,0,Urgent wire transfer overseas
+TXN000194,2025-04-30,VendorE,89738.91,USD,Operations,Transfer,Pending,0,Monthly subscription fee
+TXN000195,2025-11-16,VendorB,61247.74,USD,Marketing,Payment,Pending,0,Purchase of office supplies
+TXN000196,2025-04-30,VendorB,31417.79,USD,Operations,Refund,Rejected,0,Regular payment for services
+TXN000197,2025-10-09,VendorD,15665.42,USD,IT,Payment,Approved,0,Unusual large amount transfer
+TXN000198,2025-08-11,VendorA,43613.92,USD,Finance,Purchase,Approved,0,Unusual large amount transfer
+TXN000199,2025-05-04,VendorA,79349.76,USD,Finance,Refund,,0,Monthly subscription fee
+TXN000200,2025-11-16,VendorA,13643.84,USD,Operations,Transfer,,0,High risk international transaction
+TXN000201,2025-12-25,VendorD,65762.5,USD,Finance,Payment,,1,Urgent wire transfer overseas
+TXN000202,2025-10-09,VendorD,55876.13,USD,Finance,Refund,Rejected,0,Urgent wire transfer overseas
+TXN000203,2025-09-22,VendorE,26115.04,USD,Operations,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000204,2026-01-01,VendorA,45798.98,USD,Marketing,Transfer,Rejected,0,Purchase of office supplies
+TXN000205,2025-09-25,VendorA,33605.7,USD,Operations,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000206,2025-09-22,VendorB,85678.11,USD,HR,Refund,Pending,0,Monthly subscription fee
+TXN000207,2025-04-19,VendorA,68070.54,USD,HR,Refund,,0,High risk international transaction
+TXN000208,2026-03-03,VendorE,51504.94,USD,Finance,Transfer,,0,Urgent wire transfer overseas
+TXN000209,2025-09-07,VendorA,39803.03,USD,IT,Purchase,Pending,1,High risk international transaction
+TXN000210,2025-11-10,VendorD,89261.79,USD,HR,Transfer,Rejected,0,Unusual large amount transfer
+TXN000211,2025-10-18,VendorC,13497.27,USD,Marketing,Payment,,0,Monthly subscription fee
+TXN000212,2025-11-07,VendorA,24458.25,USD,Marketing,Payment,Rejected,0,Purchase of office supplies
+TXN000213,2025-09-19,VendorE,29802.34,USD,HR,Payment,Pending,0,Urgent wire transfer overseas
+TXN000214,2025-12-22,VendorE,7964.12,USD,Finance,Payment,,0,Purchase of office supplies
+TXN000215,2025-03-21,VendorB,85147.69,USD,Marketing,Payment,Approved,0,High risk international transaction
+TXN000216,2025-06-12,VendorB,68944.42,USD,Operations,Payment,Approved,0,Urgent wire transfer overseas
+TXN000217,2025-11-23,VendorB,15646.01,USD,Operations,Refund,Rejected,1,Regular payment for services
+TXN000218,2025-12-26,VendorC,62685.66,USD,Finance,Transfer,Pending,0,Purchase of office supplies
+TXN000219,2026-02-10,VendorD,73987.55,USD,HR,Purchase,,0,Monthly subscription fee
+TXN000220,2025-10-22,VendorD,20908.5,USD,IT,Refund,Pending,0,Standard vendor payment
+TXN000221,2025-04-30,VendorA,72710.4,USD,HR,Purchase,Approved,0,Purchase of office supplies
+TXN000222,2025-09-04,VendorA,78241.72,USD,Operations,Payment,Pending,0,Monthly subscription fee
+TXN000223,2026-03-07,VendorA,60157.38,USD,Finance,Transfer,Rejected,0,Monthly subscription fee
+TXN000224,2025-07-29,VendorB,88432.54,USD,HR,Purchase,,0,Unusual large amount transfer
+TXN000225,2025-11-25,VendorD,46521.44,USD,Finance,Transfer,,0,Monthly subscription fee
+TXN000226,2025-06-04,VendorD,93688.69,USD,Marketing,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000227,2026-03-08,VendorB,34997.2,USD,Finance,Payment,,0,Standard vendor payment
+TXN000228,2025-05-29,VendorC,22205.21,USD,Marketing,Payment,,0,Purchase of office supplies
+TXN000229,2025-09-27,VendorB,77399.2,USD,HR,Refund,,0,Standard vendor payment
+TXN000230,2026-01-30,VendorD,82598.76,USD,IT,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000231,2025-07-05,VendorD,43335.09,USD,IT,Refund,Rejected,0,Unusual large amount transfer
+TXN000232,2025-04-02,VendorD,12310.62,USD,Operations,Transfer,Approved,0,High risk international transaction
+TXN000233,2025-12-07,VendorA,87429.11,USD,Finance,Payment,Approved,0,Monthly subscription fee
+TXN000234,2025-09-05,VendorD,32202.25,USD,Marketing,Refund,,0,Regular payment for services
+TXN000235,2026-01-22,VendorC,69856.7,USD,IT,Refund,,0,Standard vendor payment
+TXN000236,2025-09-26,VendorC,48831.07,USD,Operations,Purchase,Approved,0,Monthly subscription fee
+TXN000237,2026-03-02,VendorB,98059.9,USD,HR,Payment,,0,Monthly subscription fee
+TXN000238,2026-03-02,VendorA,98827.32,USD,Operations,Refund,,0,Monthly subscription fee
+TXN000239,2025-04-07,VendorC,53608.43,USD,HR,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000240,2026-01-25,VendorE,32187.95,USD,HR,Transfer,Pending,0,Purchase of office supplies
+TXN000241,2025-10-11,VendorA,59739.6,USD,HR,Transfer,,0,Monthly subscription fee
+TXN000242,2025-04-09,VendorD,62951.34,USD,Marketing,Purchase,Rejected,0,Unusual large amount transfer
+TXN000243,2026-03-09,VendorD,96052.66,USD,IT,Payment,Pending,0,Regular payment for services
+TXN000244,2026-01-16,VendorC,36051.7,USD,Marketing,Payment,Approved,0,Unusual large amount transfer
+TXN000245,2025-09-28,VendorE,84817.32,USD,IT,Payment,,0,Monthly subscription fee
+TXN000246,2025-11-15,VendorA,96586.79,USD,Operations,Payment,Approved,0,Unusual large amount transfer
+TXN000247,2025-12-24,VendorB,73499.53,USD,Finance,Purchase,Approved,0,Monthly subscription fee
+TXN000248,2025-08-30,VendorC,80342.34,USD,Marketing,Transfer,Rejected,0,Urgent wire transfer overseas
+TXN000249,2025-05-21,VendorB,17081.93,USD,Finance,Purchase,Rejected,0,High risk international transaction
+TXN000250,2025-07-27,VendorC,79569.82,USD,Marketing,Payment,Approved,0,Monthly subscription fee
+TXN000251,2025-11-24,VendorD,34619.09,USD,Operations,Payment,Pending,0,Urgent wire transfer overseas
+TXN000252,2025-04-01,VendorB,88082.28,USD,Marketing,Payment,,0,Standard vendor payment
+TXN000253,2025-06-13,VendorE,82735.82,USD,IT,Payment,Pending,0,Standard vendor payment
+TXN000254,2025-03-21,VendorB,66178.77,USD,Finance,Refund,,0,Unusual large amount transfer
+TXN000255,2025-04-05,VendorE,90969.04,USD,Operations,Transfer,,0,Purchase of office supplies
+TXN000256,2025-09-15,VendorD,69166.47,USD,HR,Payment,Approved,0,High risk international transaction
+TXN000257,2025-05-27,VendorD,97448.72,USD,HR,Payment,Approved,0,Monthly subscription fee
+TXN000258,2025-08-19,VendorE,11857.21,USD,HR,Refund,Approved,0,Unusual large amount transfer
+TXN000259,2025-11-06,VendorC,77500.4,USD,Marketing,Transfer,Rejected,0,Urgent wire transfer overseas
+TXN000260,2025-04-24,VendorA,97530.15,USD,IT,Payment,,0,Standard vendor payment
+TXN000261,2026-02-01,VendorB,53370.42,USD,Finance,Refund,Approved,0,Regular payment for services
+TXN000262,2025-03-20,VendorE,88634.21,USD,Finance,Purchase,,0,High risk international transaction
+TXN000263,2025-06-28,VendorB,7946.32,USD,Operations,Purchase,,0,Monthly subscription fee
+TXN000264,2025-06-20,VendorD,80182.99,USD,Operations,Purchase,Rejected,0,High risk international transaction
+TXN000265,2025-09-02,VendorC,12355.04,USD,Marketing,Refund,,0,Standard vendor payment
+TXN000266,2025-08-08,VendorA,85534.74,USD,Operations,Transfer,Rejected,0,High risk international transaction
+TXN000267,2026-02-05,VendorE,51687.01,USD,Marketing,Refund,Pending,0,Purchase of office supplies
+TXN000268,2025-09-01,VendorC,62097.26,USD,Finance,Purchase,Pending,0,Standard vendor payment
+TXN000269,2025-04-06,VendorA,58737.12,USD,Finance,Refund,Pending,0,High risk international transaction
+TXN000270,2025-07-27,VendorB,2444.89,USD,Operations,Purchase,Pending,0,Standard vendor payment
+TXN000271,2025-11-01,VendorA,18136.11,USD,Finance,Transfer,Approved,0,Unusual large amount transfer
+TXN000272,2026-01-12,VendorB,16148.4,USD,Finance,Purchase,,0,High risk international transaction
+TXN000273,2025-07-04,VendorC,41695.5,USD,HR,Payment,Pending,0,Unusual large amount transfer
+TXN000274,2025-03-29,VendorB,27124.54,USD,Operations,Refund,Pending,0,Purchase of office supplies
+TXN000275,2025-12-14,VendorC,63918.92,USD,HR,Refund,,0,Unusual large amount transfer
+TXN000276,2025-03-19,VendorE,61302.23,USD,IT,Transfer,Pending,0,Monthly subscription fee
+TXN000277,2025-07-10,VendorB,43580.36,USD,Operations,Refund,Rejected,1,Purchase of office supplies
+TXN000278,2025-05-06,VendorD,75362.02,USD,Finance,Payment,,0,Monthly subscription fee
+TXN000279,2025-06-17,VendorC,15809.56,USD,IT,Purchase,Approved,0,Monthly subscription fee
+TXN000280,2025-10-26,VendorA,56501.0,USD,IT,Payment,,0,Standard vendor payment
+TXN000281,2025-10-01,VendorE,99744.96,USD,Operations,Purchase,Rejected,0,Purchase of office supplies
+TXN000282,2025-08-14,VendorC,52203.81,USD,IT,Transfer,Approved,0,Purchase of office supplies
+TXN000283,2025-12-20,VendorD,12376.69,USD,Finance,Payment,Rejected,0,Purchase of office supplies
+TXN000284,2025-05-13,VendorD,42288.64,USD,Operations,Refund,Pending,0,High risk international transaction
+TXN000285,2025-10-03,VendorD,79240.05,USD,HR,Purchase,Approved,0,Unusual large amount transfer
+TXN000286,2025-12-07,VendorD,58684.08,USD,HR,Transfer,Pending,1,Standard vendor payment
+TXN000287,2025-04-03,VendorB,60460.0,USD,Operations,Transfer,,0,Monthly subscription fee
+TXN000288,2025-10-04,VendorB,93447.56,USD,Finance,Purchase,Approved,1,Regular payment for services
+TXN000289,2025-04-06,VendorE,23526.2,USD,IT,Payment,Pending,0,Standard vendor payment
+TXN000290,2025-05-09,VendorA,6106.76,USD,HR,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000291,2026-01-22,VendorB,72664.57,USD,HR,Payment,Rejected,0,Standard vendor payment
+TXN000292,2026-01-20,VendorB,18544.86,USD,IT,Transfer,Rejected,0,High risk international transaction
+TXN000293,2025-10-18,VendorC,52419.42,USD,HR,Transfer,Approved,0,Urgent wire transfer overseas
+TXN000294,2025-05-14,VendorC,55689.21,USD,Operations,Payment,Approved,0,Regular payment for services
+TXN000295,2025-07-11,VendorB,90678.01,USD,Operations,Purchase,,0,Standard vendor payment
+TXN000296,2026-01-17,VendorE,47627.21,USD,IT,Transfer,Pending,0,Standard vendor payment
+TXN000297,2025-12-06,VendorA,63851.71,USD,Finance,Refund,,0,Unusual large amount transfer
+TXN000298,2026-01-19,VendorA,57840.31,USD,Operations,Purchase,Pending,0,Standard vendor payment
+TXN000299,2025-04-04,VendorD,55280.0,USD,Marketing,Transfer,Pending,0,Regular payment for services
+TXN000300,2025-08-29,VendorE,99300.79,USD,Operations,Transfer,Pending,0,Regular payment for services
+TXN000301,2025-04-30,VendorA,56719.04,USD,IT,Transfer,,0,High risk international transaction
+TXN000302,2026-01-07,VendorE,39875.48,USD,IT,Refund,Approved,0,Purchase of office supplies
+TXN000303,2025-10-06,VendorD,35007.54,USD,HR,Refund,Rejected,0,Regular payment for services
+TXN000304,2025-05-12,VendorD,78007.9,USD,Operations,Purchase,,0,High risk international transaction
+TXN000305,2026-03-12,VendorE,57519.52,USD,Operations,Purchase,Pending,0,Unusual large amount transfer
+TXN000306,2025-12-28,VendorA,96962.21,USD,HR,Refund,Pending,0,Standard vendor payment
+TXN000307,2025-09-03,VendorC,11953.21,USD,Operations,Transfer,Pending,0,Standard vendor payment
+TXN000308,2025-04-16,VendorE,12319.91,USD,Finance,Payment,Approved,0,High risk international transaction
+TXN000309,2025-09-07,VendorC,49164.19,USD,Finance,Transfer,Rejected,0,Standard vendor payment
+TXN000310,2025-06-23,VendorC,82928.4,USD,Finance,Refund,,1,Regular payment for services
+TXN000311,2025-08-04,VendorA,69157.09,USD,HR,Refund,Rejected,0,Standard vendor payment
+TXN000312,2025-07-30,VendorE,60952.83,USD,Operations,Purchase,,0,Standard vendor payment
+TXN000313,2025-12-02,VendorA,78011.77,USD,Operations,Refund,,0,Standard vendor payment
+TXN000314,2025-03-22,VendorC,91502.56,USD,Marketing,Payment,Pending,0,Standard vendor payment
+TXN000315,2025-11-10,VendorE,70960.56,USD,Marketing,Transfer,Approved,0,Monthly subscription fee
+TXN000316,2025-06-20,VendorA,76040.18,USD,HR,Payment,Pending,1,Purchase of office supplies
+TXN000317,2025-10-06,VendorB,88642.03,USD,Operations,Purchase,,0,High risk international transaction
+TXN000318,2026-02-24,VendorA,83286.76,USD,HR,Purchase,Pending,0,Purchase of office supplies
+TXN000319,2025-07-02,VendorE,50606.64,USD,HR,Payment,,0,Standard vendor payment
+TXN000320,2026-01-21,VendorA,49282.75,USD,IT,Transfer,Approved,0,High risk international transaction
+TXN000321,2025-11-18,VendorA,27988.67,USD,HR,Transfer,Pending,0,Monthly subscription fee
+TXN000322,2025-11-20,VendorE,43435.16,USD,IT,Payment,Rejected,1,Standard vendor payment
+TXN000323,2025-06-26,VendorB,51396.61,USD,Finance,Transfer,Approved,0,Monthly subscription fee
+TXN000324,2026-01-04,VendorD,51318.74,USD,Operations,Purchase,Rejected,0,Standard vendor payment
+TXN000325,2025-04-02,VendorC,19235.52,USD,HR,Transfer,Approved,1,Purchase of office supplies
+TXN000326,2025-10-23,VendorE,32614.02,USD,Finance,Transfer,Rejected,1,High risk international transaction
+TXN000327,2026-01-18,VendorD,86336.57,USD,HR,Transfer,Approved,0,Monthly subscription fee
+TXN000328,2025-08-25,VendorD,24638.72,USD,IT,Refund,Rejected,0,High risk international transaction
+TXN000329,2025-09-24,VendorE,31819.23,USD,Operations,Payment,Pending,0,Urgent wire transfer overseas
+TXN000330,2026-02-08,VendorA,92719.1,USD,Marketing,Transfer,Approved,0,Monthly subscription fee
+TXN000331,2025-11-12,VendorA,14645.56,USD,HR,Payment,Pending,0,Monthly subscription fee
+TXN000332,2026-01-16,VendorA,3644.06,USD,Operations,Purchase,Pending,0,Regular payment for services
+TXN000333,2026-03-04,VendorA,88109.59,USD,HR,Transfer,Rejected,0,Purchase of office supplies
+TXN000334,2025-04-09,VendorE,77578.16,USD,Finance,Refund,Rejected,0,High risk international transaction
+TXN000335,2025-11-14,VendorD,79152.27,USD,Finance,Payment,,0,Urgent wire transfer overseas
+TXN000336,2025-08-28,VendorB,73561.85,USD,HR,Payment,,0,Unusual large amount transfer
+TXN000337,2025-09-15,VendorA,14306.64,USD,Finance,Purchase,,0,Regular payment for services
+TXN000338,2025-10-26,VendorC,55549.37,USD,Operations,Refund,Approved,0,Monthly subscription fee
+TXN000339,2026-02-20,VendorE,82567.7,USD,Marketing,Refund,,0,Monthly subscription fee
+TXN000340,2025-11-03,VendorA,85123.63,USD,Finance,Transfer,Pending,0,Regular payment for services
+TXN000341,2025-03-19,VendorC,75508.55,USD,Operations,Payment,Rejected,0,Purchase of office supplies
+TXN000342,2026-01-21,VendorA,21694.77,USD,Finance,Refund,,0,Urgent wire transfer overseas
+TXN000343,2025-06-04,VendorB,4214.06,USD,IT,Purchase,Approved,0,Regular payment for services
+TXN000344,2025-12-13,VendorC,90450.98,USD,HR,Payment,Pending,0,Regular payment for services
+TXN000345,2025-10-09,VendorC,51012.58,USD,HR,Refund,Rejected,0,Purchase of office supplies
+TXN000346,2026-02-18,VendorC,99940.45,USD,Marketing,Transfer,Approved,0,Regular payment for services
+TXN000347,2025-11-11,VendorD,12667.67,USD,IT,Purchase,Pending,1,Urgent wire transfer overseas
+TXN000348,2025-07-01,VendorD,61904.84,USD,IT,Payment,,0,Urgent wire transfer overseas
+TXN000349,2025-09-04,VendorA,59685.8,USD,HR,Purchase,Approved,0,High risk international transaction
+TXN000350,2025-10-19,VendorA,53104.87,USD,Operations,Transfer,,0,Standard vendor payment
+TXN000351,2025-11-15,VendorD,27443.66,USD,Operations,Refund,Approved,1,Purchase of office supplies
+TXN000352,2025-07-18,VendorB,65628.92,USD,Operations,Transfer,Approved,0,Monthly subscription fee
+TXN000353,2025-09-30,VendorB,93582.37,USD,Finance,Purchase,Rejected,1,Standard vendor payment
+TXN000354,2025-09-13,VendorC,8698.47,USD,IT,Refund,Rejected,0,Unusual large amount transfer
+TXN000355,2025-07-13,VendorE,96282.77,USD,IT,Transfer,Rejected,0,Regular payment for services
+TXN000356,2025-09-27,VendorB,46308.89,USD,Operations,Transfer,,0,High risk international transaction
+TXN000357,2026-03-14,VendorB,21319.5,USD,Marketing,Refund,Approved,0,Unusual large amount transfer
+TXN000358,2025-08-01,VendorA,71413.25,USD,Marketing,Transfer,,0,Standard vendor payment
+TXN000359,2026-01-13,VendorE,10738.25,USD,Operations,Refund,Rejected,0,Unusual large amount transfer
+TXN000360,2025-08-25,VendorD,69727.29,USD,Marketing,Purchase,Approved,0,Monthly subscription fee
+TXN000361,2025-10-05,VendorE,84612.27,USD,Marketing,Transfer,Approved,0,Monthly subscription fee
+TXN000362,2025-12-24,VendorC,7705.7,USD,HR,Refund,Rejected,0,Purchase of office supplies
+TXN000363,2025-11-27,VendorD,92034.11,USD,HR,Payment,Pending,0,Urgent wire transfer overseas
+TXN000364,2025-04-21,VendorC,74319.18,USD,Operations,Refund,Pending,0,Urgent wire transfer overseas
+TXN000365,2025-11-26,VendorA,93648.49,USD,IT,Purchase,,0,High risk international transaction
+TXN000366,2025-10-07,VendorB,67123.41,USD,Marketing,Transfer,,0,Unusual large amount transfer
+TXN000367,2025-09-10,VendorE,57398.3,USD,Operations,Purchase,Rejected,1,Monthly subscription fee
+TXN000368,2025-11-14,VendorA,39248.6,USD,Finance,Refund,Pending,1,Urgent wire transfer overseas
+TXN000369,2025-06-12,VendorC,77768.43,USD,IT,Purchase,Approved,1,Unusual large amount transfer
+TXN000370,2025-10-30,VendorB,17354.45,USD,HR,Purchase,Pending,0,Standard vendor payment
+TXN000371,2026-02-05,VendorA,27969.63,USD,Marketing,Payment,,0,Purchase of office supplies
+TXN000372,2025-04-25,VendorA,34452.9,USD,IT,Refund,,1,Unusual large amount transfer
+TXN000373,2026-02-06,VendorC,54537.7,USD,IT,Payment,,1,Monthly subscription fee
+TXN000374,2025-12-04,VendorA,98621.08,USD,Marketing,Refund,,0,Standard vendor payment
+TXN000375,2026-01-13,VendorB,95948.73,USD,Operations,Purchase,,0,Standard vendor payment
+TXN000376,2025-03-28,VendorE,88083.01,USD,Finance,Refund,Rejected,0,Monthly subscription fee
+TXN000377,2025-12-12,VendorA,21800.74,USD,IT,Refund,Pending,0,Purchase of office supplies
+TXN000378,2025-09-23,VendorA,34315.69,USD,Operations,Transfer,Rejected,0,Regular payment for services
+TXN000379,2025-09-07,VendorB,25440.84,USD,Marketing,Payment,Pending,0,Urgent wire transfer overseas
+TXN000380,2025-03-27,VendorC,29288.1,USD,HR,Refund,Approved,0,Purchase of office supplies
+TXN000381,2025-05-22,VendorC,90875.51,USD,Finance,Transfer,,0,High risk international transaction
+TXN000382,2025-11-29,VendorD,73048.6,USD,Marketing,Purchase,Rejected,0,High risk international transaction
+TXN000383,2026-01-30,VendorC,45415.9,USD,Finance,Payment,Rejected,0,Regular payment for services
+TXN000384,2025-03-15,VendorA,51240.9,USD,IT,Refund,,1,High risk international transaction
+TXN000385,2025-12-05,VendorD,85702.57,USD,HR,Transfer,Pending,0,Purchase of office supplies
+TXN000386,2025-12-13,VendorB,58894.36,USD,IT,Refund,Rejected,1,High risk international transaction
+TXN000387,2025-07-08,VendorE,27274.5,USD,Finance,Refund,Rejected,0,Unusual large amount transfer
+TXN000388,2025-06-16,VendorD,15108.86,USD,Operations,Purchase,Approved,0,Unusual large amount transfer
+TXN000389,2026-02-06,VendorC,29284.08,USD,Marketing,Transfer,,0,Regular payment for services
+TXN000390,2025-06-08,VendorA,66395.87,USD,HR,Transfer,Pending,0,Unusual large amount transfer
+TXN000391,2025-05-03,VendorB,48040.33,USD,HR,Payment,Pending,0,Monthly subscription fee
+TXN000392,2025-11-18,VendorB,40213.34,USD,Operations,Payment,Rejected,1,Unusual large amount transfer
+TXN000393,2025-05-28,VendorA,28214.72,USD,HR,Purchase,Pending,1,Standard vendor payment
+TXN000394,2025-05-17,VendorB,42749.03,USD,Marketing,Transfer,Pending,0,Unusual large amount transfer
+TXN000395,2025-05-04,VendorB,88804.72,USD,HR,Transfer,Rejected,0,Unusual large amount transfer
+TXN000396,2025-09-13,VendorE,94162.0,USD,IT,Refund,Pending,0,High risk international transaction
+TXN000397,2026-03-05,VendorA,52170.17,USD,Operations,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000398,2026-02-02,VendorA,8840.76,USD,Marketing,Transfer,Rejected,0,Regular payment for services
+TXN000399,2025-04-12,VendorB,39871.46,USD,Finance,Refund,Approved,0,Regular payment for services
+TXN000400,2025-07-19,VendorD,95927.49,USD,IT,Refund,Pending,0,Monthly subscription fee
+TXN000401,2026-03-06,VendorD,13187.12,USD,HR,Refund,Rejected,0,Unusual large amount transfer
+TXN000402,2025-04-29,VendorB,32749.77,USD,HR,Refund,Rejected,0,Monthly subscription fee
+TXN000403,2025-08-08,VendorE,20348.39,USD,Operations,Payment,Approved,0,Standard vendor payment
+TXN000404,2025-07-04,VendorA,37177.25,USD,Finance,Refund,Approved,0,Urgent wire transfer overseas
+TXN000405,2025-08-09,VendorA,7341.1,USD,Marketing,Transfer,,0,Regular payment for services
+TXN000406,2026-01-11,VendorC,65391.49,USD,HR,Purchase,Rejected,0,Unusual large amount transfer
+TXN000407,2025-08-23,VendorD,3497.15,USD,Marketing,Payment,Pending,0,Monthly subscription fee
+TXN000408,2026-01-19,VendorA,91826.99,USD,HR,Purchase,Approved,0,High risk international transaction
+TXN000409,2025-04-16,VendorA,86301.26,USD,Operations,Payment,,0,Purchase of office supplies
+TXN000410,2025-06-12,VendorB,18746.76,USD,Finance,Payment,,0,Unusual large amount transfer
+TXN000411,2025-10-31,VendorC,41342.67,USD,HR,Purchase,Pending,0,Purchase of office supplies
+TXN000412,2025-12-07,VendorA,54830.11,USD,IT,Refund,Approved,1,Regular payment for services
+TXN000413,2026-02-27,VendorB,81104.76,USD,IT,Transfer,Pending,0,High risk international transaction
+TXN000414,2025-04-24,VendorD,22580.8,USD,IT,Purchase,,0,Unusual large amount transfer
+TXN000415,2025-08-16,VendorB,5411.61,USD,Marketing,Purchase,Rejected,0,Purchase of office supplies
+TXN000416,2025-10-27,VendorB,43257.97,USD,HR,Refund,Pending,0,Monthly subscription fee
+TXN000417,2025-05-29,VendorE,18997.4,USD,IT,Payment,Approved,0,Regular payment for services
+TXN000418,2025-03-23,VendorC,88003.73,USD,Operations,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000419,2025-04-01,VendorA,53918.49,USD,Finance,Purchase,Rejected,1,Regular payment for services
+TXN000420,2026-02-25,VendorC,47.89,USD,Operations,Payment,Approved,0,Purchase of office supplies
+TXN000421,2025-05-13,VendorB,22018.03,USD,HR,Refund,Approved,0,High risk international transaction
+TXN000422,2025-12-13,VendorD,74806.07,USD,Finance,Transfer,Approved,1,High risk international transaction
+TXN000423,2025-10-05,VendorE,8141.21,USD,Finance,Refund,,0,Regular payment for services
+TXN000424,2025-10-16,VendorC,79270.42,USD,Operations,Transfer,Pending,0,Standard vendor payment
+TXN000425,2025-06-09,VendorA,7471.05,USD,HR,Refund,Approved,0,Unusual large amount transfer
+TXN000426,2025-08-24,VendorC,18316.04,USD,IT,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000427,2026-03-14,VendorD,42388.04,USD,Marketing,Purchase,Rejected,0,Monthly subscription fee
+TXN000428,2025-07-25,VendorB,28572.73,USD,Marketing,Purchase,Approved,0,Monthly subscription fee
+TXN000429,2025-08-06,VendorD,55921.05,USD,Finance,Purchase,Pending,0,High risk international transaction
+TXN000430,2025-11-10,VendorD,72885.58,USD,HR,Purchase,Pending,0,Regular payment for services
+TXN000431,2026-01-07,VendorE,68008.31,USD,Marketing,Payment,Pending,0,High risk international transaction
+TXN000432,2025-12-18,VendorE,21907.01,USD,IT,Refund,Pending,1,Unusual large amount transfer
+TXN000433,2026-01-27,VendorA,55090.52,USD,Marketing,Purchase,Approved,0,Monthly subscription fee
+TXN000434,2025-11-27,VendorD,81493.37,USD,Finance,Payment,Rejected,0,Regular payment for services
+TXN000435,2025-07-06,VendorC,16675.41,USD,HR,Purchase,,0,Regular payment for services
+TXN000436,2025-09-26,VendorA,72328.02,USD,Marketing,Refund,Pending,0,Monthly subscription fee
+TXN000437,2025-08-26,VendorD,9776.24,USD,IT,Refund,Pending,0,Standard vendor payment
+TXN000438,2025-06-12,VendorC,18160.25,USD,Marketing,Purchase,Pending,0,Regular payment for services
+TXN000439,2026-02-01,VendorE,55985.52,USD,Finance,Refund,,0,Unusual large amount transfer
+TXN000440,2025-11-22,VendorA,6530.81,USD,Marketing,Refund,Approved,0,Unusual large amount transfer
+TXN000441,2025-09-06,VendorE,64510.74,USD,HR,Payment,,0,Urgent wire transfer overseas
+TXN000442,2025-09-28,VendorD,10615.11,USD,IT,Purchase,Pending,0,Purchase of office supplies
+TXN000443,2025-07-19,VendorB,40364.05,USD,IT,Purchase,Pending,0,Regular payment for services
+TXN000444,2025-08-10,VendorD,61261.24,USD,HR,Refund,Pending,0,Purchase of office supplies
+TXN000445,2025-03-25,VendorE,76859.95,USD,Operations,Refund,Rejected,0,Monthly subscription fee
+TXN000446,2025-04-30,VendorA,72137.75,USD,HR,Purchase,,0,Standard vendor payment
+TXN000447,2025-03-15,VendorB,68272.04,USD,HR,Purchase,Rejected,0,High risk international transaction
+TXN000448,2025-08-20,VendorA,88592.33,USD,HR,Purchase,,0,Unusual large amount transfer
+TXN000449,2025-08-18,VendorB,48982.85,USD,IT,Refund,Approved,0,Purchase of office supplies
+TXN000450,2025-03-26,VendorC,98171.16,USD,Finance,Transfer,Approved,0,Urgent wire transfer overseas
+TXN000451,2025-07-24,VendorC,10595.41,USD,HR,Refund,Pending,0,High risk international transaction
+TXN000452,2025-08-01,VendorD,3519.05,USD,Operations,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000453,2025-05-02,VendorD,43860.48,USD,IT,Transfer,Approved,0,Regular payment for services
+TXN000454,2025-12-15,VendorA,93246.38,USD,Marketing,Purchase,Approved,0,Monthly subscription fee
+TXN000455,2025-06-30,VendorE,77684.12,USD,Operations,Payment,Approved,0,Unusual large amount transfer
+TXN000456,2025-09-15,VendorC,73589.62,USD,Finance,Payment,,0,High risk international transaction
+TXN000457,2025-05-14,VendorC,3117.44,USD,Finance,Refund,Rejected,0,High risk international transaction
+TXN000458,2025-11-05,VendorA,79635.35,USD,Marketing,Refund,Approved,0,Urgent wire transfer overseas
+TXN000459,2025-06-16,VendorA,34823.76,USD,Finance,Purchase,,0,Regular payment for services
+TXN000460,2025-07-23,VendorC,79070.41,USD,HR,Refund,,0,Purchase of office supplies
+TXN000461,2025-10-13,VendorB,57742.62,USD,IT,Transfer,Rejected,0,Monthly subscription fee
+TXN000462,2025-05-28,VendorB,89986.12,USD,Operations,Payment,Pending,0,High risk international transaction
+TXN000463,2025-05-10,VendorA,67953.48,USD,HR,Payment,Approved,0,Urgent wire transfer overseas
+TXN000464,2025-12-06,VendorA,59001.41,USD,HR,Purchase,Approved,0,Purchase of office supplies
+TXN000465,2025-08-07,VendorB,83925.21,USD,Marketing,Refund,Rejected,0,Monthly subscription fee
+TXN000466,2026-03-14,VendorA,70526.07,USD,Operations,Payment,,0,Purchase of office supplies
+TXN000467,2025-03-22,VendorA,53590.32,USD,Operations,Refund,,0,High risk international transaction
+TXN000468,2025-10-26,VendorC,38098.1,USD,IT,Transfer,,0,Monthly subscription fee
+TXN000469,2025-09-09,VendorE,79733.61,USD,IT,Payment,Rejected,0,Unusual large amount transfer
+TXN000470,2025-04-11,VendorD,27440.67,USD,Finance,Payment,Approved,1,Regular payment for services
+TXN000471,2025-11-04,VendorC,72769.19,USD,Marketing,Refund,Rejected,0,Standard vendor payment
+TXN000472,2025-12-21,VendorB,37008.4,USD,Operations,Purchase,,0,High risk international transaction
+TXN000473,2025-08-14,VendorB,33196.71,USD,Finance,Purchase,,0,High risk international transaction
+TXN000474,2025-11-11,VendorC,34847.52,USD,IT,Purchase,,0,Regular payment for services
+TXN000475,2025-09-04,VendorB,85409.56,USD,Operations,Transfer,,0,Urgent wire transfer overseas
+TXN000476,2026-03-05,VendorB,8689.14,USD,HR,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000477,2025-11-23,VendorB,57568.35,USD,Marketing,Refund,Rejected,0,Standard vendor payment
+TXN000478,2025-12-21,VendorB,73008.86,USD,Marketing,Payment,Rejected,0,Unusual large amount transfer
+TXN000479,2025-04-14,VendorA,26915.55,USD,Finance,Payment,Rejected,0,Unusual large amount transfer
+TXN000480,2025-08-04,VendorE,57612.54,USD,Finance,Transfer,Rejected,0,High risk international transaction
+TXN000481,2025-11-04,VendorA,80031.1,USD,IT,Purchase,Rejected,0,Regular payment for services
+TXN000482,2026-01-23,VendorD,621.67,USD,Marketing,Transfer,Pending,0,Regular payment for services
+TXN000483,2025-05-23,VendorD,34208.86,USD,HR,Purchase,Approved,0,Purchase of office supplies
+TXN000484,2025-06-30,VendorC,66536.14,USD,Marketing,Transfer,Pending,0,High risk international transaction
+TXN000485,2025-10-04,VendorC,41514.66,USD,Finance,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000486,2026-03-14,VendorD,16444.33,USD,Operations,Transfer,,0,High risk international transaction
+TXN000487,2026-03-04,VendorC,68666.32,USD,IT,Payment,Pending,0,Purchase of office supplies
+TXN000488,2025-08-27,VendorD,2615.94,USD,HR,Refund,Rejected,1,Purchase of office supplies
+TXN000489,2026-02-19,VendorA,677.78,USD,Operations,Transfer,Rejected,0,Purchase of office supplies
+TXN000490,2025-11-02,VendorE,12084.26,USD,Finance,Purchase,Rejected,0,Purchase of office supplies
+TXN000491,2025-12-17,VendorC,92688.1,USD,IT,Refund,Approved,0,Standard vendor payment
+TXN000492,2025-05-07,VendorB,72392.43,USD,Operations,Transfer,,0,Urgent wire transfer overseas
+TXN000493,2025-11-13,VendorB,36062.68,USD,IT,Refund,Approved,0,Regular payment for services
+TXN000494,2025-07-06,VendorE,52035.31,USD,Marketing,Transfer,Rejected,0,Purchase of office supplies
+TXN000495,2025-11-28,VendorD,98715.0,USD,IT,Transfer,Approved,0,Unusual large amount transfer
+TXN000496,2025-10-13,VendorD,90574.49,USD,IT,Payment,,1,Standard vendor payment
+TXN000497,2025-05-18,VendorC,43086.33,USD,IT,Transfer,Approved,0,Urgent wire transfer overseas
+TXN000498,2026-02-01,VendorC,98033.13,USD,Marketing,Payment,Approved,0,Standard vendor payment
+TXN000499,2025-03-15,VendorD,14185.38,USD,Finance,Purchase,Pending,0,Standard vendor payment
+TXN000500,2025-06-06,VendorE,91799.64,USD,Marketing,Transfer,Pending,0,Standard vendor payment
+TXN000501,2025-06-25,VendorA,45841.82,USD,Marketing,Transfer,Rejected,0,Unusual large amount transfer
+TXN000502,2025-04-02,VendorD,37358.55,USD,IT,Purchase,Approved,0,Standard vendor payment
+TXN000503,2026-02-17,VendorE,27991.2,USD,Finance,Payment,,0,High risk international transaction
+TXN000504,2026-03-04,VendorA,12662.38,USD,Marketing,Payment,Pending,0,High risk international transaction
+TXN000505,2025-05-17,VendorE,9336.52,USD,Finance,Transfer,,0,Regular payment for services
+TXN000506,2025-04-04,VendorE,48629.12,USD,IT,Refund,Rejected,0,Unusual large amount transfer
+TXN000507,2025-12-13,VendorC,53867.92,USD,Finance,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000508,2025-10-18,VendorB,84292.02,USD,Operations,Purchase,Approved,0,Standard vendor payment
+TXN000509,2025-09-30,VendorE,19248.4,USD,HR,Payment,,0,Monthly subscription fee
+TXN000510,2025-06-27,VendorC,14377.94,USD,HR,Purchase,Pending,0,Unusual large amount transfer
+TXN000511,2025-10-12,VendorC,72449.9,USD,Marketing,Transfer,Rejected,0,Standard vendor payment
+TXN000512,2025-07-29,VendorB,25622.1,USD,Finance,Payment,Pending,0,High risk international transaction
+TXN000513,2025-06-06,VendorA,33064.05,USD,IT,Payment,Pending,0,Standard vendor payment
+TXN000514,2026-03-08,VendorE,94554.97,USD,Finance,Purchase,Pending,0,Purchase of office supplies
+TXN000515,2026-02-24,VendorE,983.23,USD,Operations,Payment,Rejected,0,Regular payment for services
+TXN000516,2025-04-01,VendorD,70730.05,USD,Operations,Payment,Rejected,0,Purchase of office supplies
+TXN000517,2026-01-10,VendorE,71401.05,USD,Marketing,Purchase,Rejected,0,Unusual large amount transfer
+TXN000518,2025-06-03,VendorE,77076.39,USD,IT,Refund,Rejected,0,Monthly subscription fee
+TXN000519,2025-04-29,VendorD,79310.39,USD,Operations,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000520,2025-10-21,VendorC,24451.75,USD,Operations,Refund,,0,High risk international transaction
+TXN000521,2025-09-05,VendorC,74383.48,USD,Operations,Payment,,0,Monthly subscription fee
+TXN000522,2025-11-29,VendorB,78320.18,USD,HR,Refund,Rejected,0,High risk international transaction
+TXN000523,2025-06-30,VendorA,8585.29,USD,IT,Payment,Approved,0,Unusual large amount transfer
+TXN000524,2025-10-31,VendorA,81119.15,USD,HR,Refund,,0,High risk international transaction
+TXN000525,2026-02-07,VendorE,5465.69,USD,HR,Payment,Approved,0,Standard vendor payment
+TXN000526,2026-02-02,VendorE,13560.72,USD,Operations,Transfer,Rejected,1,Regular payment for services
+TXN000527,2026-01-26,VendorB,36128.45,USD,HR,Payment,Pending,0,Unusual large amount transfer
+TXN000528,2025-09-29,VendorA,68785.5,USD,Finance,Payment,Pending,0,Urgent wire transfer overseas
+TXN000529,2026-03-03,VendorA,11188.18,USD,HR,Payment,,0,Urgent wire transfer overseas
+TXN000530,2025-09-10,VendorE,74077.3,USD,Marketing,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000531,2025-08-17,VendorE,48476.48,USD,IT,Refund,Pending,0,Standard vendor payment
+TXN000532,2026-02-03,VendorE,11560.63,USD,IT,Payment,Pending,0,Urgent wire transfer overseas
+TXN000533,2025-07-06,VendorE,7280.84,USD,Marketing,Transfer,,0,Monthly subscription fee
+TXN000534,2025-06-21,VendorA,20857.43,USD,IT,Refund,Pending,0,Regular payment for services
+TXN000535,2025-05-22,VendorB,8824.39,USD,HR,Payment,Approved,0,Regular payment for services
+TXN000536,2025-05-23,VendorD,35000.48,USD,Finance,Refund,,0,Regular payment for services
+TXN000537,2026-01-06,VendorD,64394.53,USD,Marketing,Refund,Pending,0,High risk international transaction
+TXN000538,2025-11-29,VendorB,50348.72,USD,Operations,Payment,Pending,1,High risk international transaction
+TXN000539,2026-02-19,VendorC,74388.46,USD,Finance,Transfer,Approved,0,Purchase of office supplies
+TXN000540,2025-06-19,VendorD,19573.71,USD,HR,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000541,2026-02-20,VendorD,90282.92,USD,Operations,Purchase,,0,Monthly subscription fee
+TXN000542,2025-05-25,VendorC,30410.3,USD,Marketing,Refund,Rejected,0,Urgent wire transfer overseas
+TXN000543,2025-09-14,VendorE,23277.85,USD,HR,Payment,Rejected,0,High risk international transaction
+TXN000544,2025-06-04,VendorE,85900.34,USD,IT,Purchase,Approved,0,Purchase of office supplies
+TXN000545,2025-08-29,VendorB,89163.67,USD,HR,Refund,Pending,0,Urgent wire transfer overseas
+TXN000546,2025-08-27,VendorA,48935.65,USD,IT,Purchase,Rejected,0,Regular payment for services
+TXN000547,2025-06-01,VendorB,61679.63,USD,HR,Transfer,Rejected,1,High risk international transaction
+TXN000548,2026-03-15,VendorA,43059.02,USD,Marketing,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000549,2025-04-10,VendorA,32126.09,USD,Operations,Purchase,,0,Standard vendor payment
+TXN000550,2025-03-26,VendorD,61490.7,USD,Finance,Transfer,Rejected,0,Unusual large amount transfer
+TXN000551,2026-02-14,VendorA,58845.18,USD,Finance,Transfer,Pending,0,Purchase of office supplies
+TXN000552,2025-08-19,VendorD,47113.1,USD,Marketing,Purchase,,0,Regular payment for services
+TXN000553,2025-11-28,VendorE,27728.92,USD,HR,Transfer,Approved,0,Regular payment for services
+TXN000554,2026-02-22,VendorD,72796.38,USD,Finance,Purchase,Rejected,1,Urgent wire transfer overseas
+TXN000555,2025-09-23,VendorC,35895.49,USD,IT,Transfer,Approved,0,Urgent wire transfer overseas
+TXN000556,2026-02-07,VendorD,70336.68,USD,Finance,Purchase,,0,Purchase of office supplies
+TXN000557,2025-07-25,VendorE,68397.73,USD,HR,Purchase,Pending,0,Standard vendor payment
+TXN000558,2025-05-31,VendorB,19821.07,USD,HR,Refund,Rejected,1,Unusual large amount transfer
+TXN000559,2025-05-07,VendorB,57037.35,USD,HR,Transfer,,0,Regular payment for services
+TXN000560,2025-11-19,VendorE,92704.77,USD,Finance,Payment,Approved,0,Regular payment for services
+TXN000561,2025-10-21,VendorE,82385.21,USD,HR,Refund,,0,Monthly subscription fee
+TXN000562,2026-01-05,VendorA,19581.14,USD,Marketing,Transfer,,0,Urgent wire transfer overseas
+TXN000563,2026-02-28,VendorD,50506.13,USD,Marketing,Transfer,,0,Monthly subscription fee
+TXN000564,2025-05-13,VendorC,78622.6,USD,HR,Refund,,0,Purchase of office supplies
+TXN000565,2026-01-12,VendorD,44249.85,USD,IT,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000566,2025-12-06,VendorB,44812.04,USD,IT,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000567,2025-12-05,VendorD,823.61,USD,Marketing,Payment,,0,Purchase of office supplies
+TXN000568,2025-04-23,VendorD,86704.51,USD,Marketing,Refund,Approved,0,Urgent wire transfer overseas
+TXN000569,2026-01-12,VendorD,50342.66,USD,Operations,Purchase,Approved,0,High risk international transaction
+TXN000570,2025-08-06,VendorB,9296.39,USD,HR,Payment,Pending,0,High risk international transaction
+TXN000571,2025-07-01,VendorC,5197.3,USD,IT,Purchase,,0,Standard vendor payment
+TXN000572,2025-10-30,VendorC,98951.53,USD,HR,Purchase,,0,Unusual large amount transfer
+TXN000573,2025-07-11,VendorD,50335.21,USD,Marketing,Transfer,Rejected,0,Standard vendor payment
+TXN000574,2025-06-09,VendorB,84179.07,USD,Finance,Transfer,Pending,0,Standard vendor payment
+TXN000575,2026-01-29,VendorC,91819.27,USD,Operations,Refund,,0,Standard vendor payment
+TXN000576,2025-11-01,VendorC,76466.12,USD,HR,Purchase,Rejected,0,Unusual large amount transfer
+TXN000577,2025-09-09,VendorB,77033.55,USD,Marketing,Purchase,,0,Standard vendor payment
+TXN000578,2025-04-22,VendorD,46340.6,USD,HR,Refund,Approved,0,High risk international transaction
+TXN000579,2025-05-07,VendorC,80065.32,USD,Marketing,Refund,Approved,0,Urgent wire transfer overseas
+TXN000580,2026-01-16,VendorE,17432.79,USD,IT,Payment,Approved,0,Standard vendor payment
+TXN000581,2025-05-27,VendorC,20618.89,USD,Finance,Transfer,,0,Purchase of office supplies
+TXN000582,2025-09-10,VendorA,96925.57,USD,Finance,Transfer,Approved,0,Regular payment for services
+TXN000583,2025-12-04,VendorB,65554.99,USD,Operations,Transfer,,0,Regular payment for services
+TXN000584,2025-08-29,VendorC,81577.51,USD,Marketing,Purchase,,0,Unusual large amount transfer
+TXN000585,2025-10-14,VendorA,85222.76,USD,Marketing,Refund,Pending,0,Monthly subscription fee
+TXN000586,2025-09-10,VendorC,39806.49,USD,Marketing,Payment,Pending,0,Standard vendor payment
+TXN000587,2026-01-30,VendorB,14493.22,USD,HR,Purchase,Rejected,0,Standard vendor payment
+TXN000588,2025-03-21,VendorB,87962.53,USD,Operations,Refund,Approved,0,Monthly subscription fee
+TXN000589,2025-05-29,VendorE,21555.02,USD,Finance,Purchase,Approved,0,High risk international transaction
+TXN000590,2025-12-18,VendorD,30564.35,USD,Marketing,Transfer,Rejected,0,Unusual large amount transfer
+TXN000591,2026-01-15,VendorB,38499.76,USD,HR,Payment,Pending,0,Regular payment for services
+TXN000592,2025-05-03,VendorC,30741.44,USD,Finance,Payment,,0,Unusual large amount transfer
+TXN000593,2025-07-24,VendorE,54486.19,USD,Marketing,Transfer,Rejected,0,Purchase of office supplies
+TXN000594,2025-10-10,VendorD,32317.52,USD,HR,Purchase,Rejected,0,High risk international transaction
+TXN000595,2025-11-25,VendorA,44424.02,USD,Marketing,Purchase,,0,Standard vendor payment
+TXN000596,2025-06-14,VendorC,89964.82,USD,IT,Payment,Rejected,0,Regular payment for services
+TXN000597,2025-05-11,VendorA,29813.98,USD,Marketing,Purchase,Approved,0,Regular payment for services
+TXN000598,2025-08-13,VendorE,92380.14,USD,IT,Refund,Approved,0,Purchase of office supplies
+TXN000599,2025-11-02,VendorA,98685.23,USD,Marketing,Transfer,Pending,0,Purchase of office supplies
+TXN000600,2025-08-28,VendorB,4300.05,USD,Finance,Transfer,Rejected,1,High risk international transaction
+TXN000601,2025-10-13,VendorD,63448.0,USD,IT,Transfer,Approved,0,Unusual large amount transfer
+TXN000602,2025-07-25,VendorD,91821.14,USD,IT,Purchase,Rejected,0,Standard vendor payment
+TXN000603,2025-05-06,VendorB,55281.78,USD,HR,Transfer,Approved,0,High risk international transaction
+TXN000604,2025-05-13,VendorA,30805.92,USD,Finance,Purchase,Rejected,0,Standard vendor payment
+TXN000605,2025-04-07,VendorB,16844.5,USD,Marketing,Purchase,,0,Regular payment for services
+TXN000606,2025-07-09,VendorD,82095.29,USD,Marketing,Transfer,Pending,0,Purchase of office supplies
+TXN000607,2025-10-24,VendorC,8070.81,USD,Marketing,Transfer,Pending,0,Regular payment for services
+TXN000608,2025-12-31,VendorB,38229.7,USD,Marketing,Refund,,0,Regular payment for services
+TXN000609,2025-07-04,VendorE,61544.38,USD,Finance,Purchase,Approved,0,Monthly subscription fee
+TXN000610,2025-12-15,VendorA,58115.11,USD,Operations,Purchase,Rejected,0,Monthly subscription fee
+TXN000611,2025-08-04,VendorB,42956.57,USD,HR,Refund,,0,High risk international transaction
+TXN000612,2026-01-09,VendorC,4248.84,USD,Operations,Transfer,Pending,0,Monthly subscription fee
+TXN000613,2025-06-04,VendorB,59625.41,USD,Marketing,Refund,Approved,0,Unusual large amount transfer
+TXN000614,2025-10-28,VendorD,64939.13,USD,Marketing,Payment,,0,Unusual large amount transfer
+TXN000615,2025-12-21,VendorE,7065.86,USD,IT,Refund,Rejected,0,Purchase of office supplies
+TXN000616,2025-11-21,VendorD,74337.07,USD,Operations,Refund,,0,Standard vendor payment
+TXN000617,2025-06-22,VendorD,97317.73,USD,HR,Refund,Pending,0,Unusual large amount transfer
+TXN000618,2025-08-12,VendorC,71880.47,USD,Operations,Transfer,Pending,0,Monthly subscription fee
+TXN000619,2025-09-11,VendorC,50187.18,USD,Operations,Refund,Rejected,0,Standard vendor payment
+TXN000620,2025-10-14,VendorE,73358.38,USD,HR,Purchase,,0,Regular payment for services
+TXN000621,2025-11-01,VendorD,82902.86,USD,IT,Payment,,1,Standard vendor payment
+TXN000622,2025-04-14,VendorA,1987.92,USD,Marketing,Transfer,Rejected,1,Regular payment for services
+TXN000623,2025-11-04,VendorE,32023.31,USD,Marketing,Payment,Rejected,0,Standard vendor payment
+TXN000624,2025-07-16,VendorC,55845.66,USD,Operations,Purchase,Approved,0,Regular payment for services
+TXN000625,2025-04-30,VendorA,80449.12,USD,IT,Refund,Rejected,0,Monthly subscription fee
+TXN000626,2026-03-07,VendorC,16963.85,USD,Operations,Payment,Pending,0,High risk international transaction
+TXN000627,2026-01-05,VendorB,77908.79,USD,Marketing,Refund,Pending,0,Unusual large amount transfer
+TXN000628,2025-10-19,VendorD,75130.08,USD,Marketing,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000629,2025-05-24,VendorB,26441.17,USD,Finance,Purchase,,0,Urgent wire transfer overseas
+TXN000630,2025-08-29,VendorC,91336.38,USD,Operations,Refund,Rejected,0,Monthly subscription fee
+TXN000631,2025-06-11,VendorB,92019.75,USD,HR,Refund,,0,High risk international transaction
+TXN000632,2025-03-26,VendorE,64458.27,USD,HR,Transfer,Approved,0,Monthly subscription fee
+TXN000633,2025-10-04,VendorB,52422.9,USD,Finance,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000634,2025-08-30,VendorA,95450.98,USD,IT,Payment,,0,High risk international transaction
+TXN000635,2025-07-08,VendorB,42111.12,USD,IT,Refund,,0,Standard vendor payment
+TXN000636,2025-12-25,VendorE,60905.99,USD,Operations,Transfer,Approved,0,Purchase of office supplies
+TXN000637,2025-10-24,VendorD,60.15,USD,IT,Purchase,Approved,0,Unusual large amount transfer
+TXN000638,2025-12-06,VendorC,3018.43,USD,HR,Payment,Approved,0,High risk international transaction
+TXN000639,2025-07-15,VendorC,55379.68,USD,IT,Payment,Rejected,0,Standard vendor payment
+TXN000640,2025-08-25,VendorA,72077.08,USD,HR,Purchase,,0,Standard vendor payment
+TXN000641,2025-10-20,VendorD,78652.3,USD,IT,Transfer,Rejected,1,High risk international transaction
+TXN000642,2025-10-23,VendorC,36859.55,USD,IT,Payment,Rejected,0,Standard vendor payment
+TXN000643,2025-06-16,VendorA,33424.48,USD,HR,Transfer,Pending,0,Regular payment for services
+TXN000644,2025-06-16,VendorD,62020.5,USD,Operations,Refund,Approved,0,Unusual large amount transfer
+TXN000645,2026-01-26,VendorD,890.07,USD,HR,Payment,Approved,0,High risk international transaction
+TXN000646,2026-01-18,VendorE,58659.87,USD,HR,Refund,,0,Monthly subscription fee
+TXN000647,2025-04-07,VendorB,79855.13,USD,Operations,Payment,Pending,0,Purchase of office supplies
+TXN000648,2025-12-26,VendorE,14897.93,USD,IT,Purchase,Rejected,0,High risk international transaction
+TXN000649,2025-06-27,VendorA,66392.26,USD,IT,Refund,Rejected,0,High risk international transaction
+TXN000650,2025-06-22,VendorA,56737.04,USD,HR,Refund,Rejected,1,High risk international transaction
+TXN000651,2025-07-08,VendorC,456.6,USD,Marketing,Refund,Rejected,0,Monthly subscription fee
+TXN000652,2025-06-26,VendorC,78122.84,USD,HR,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000653,2025-03-29,VendorA,8262.07,USD,HR,Purchase,,0,Urgent wire transfer overseas
+TXN000654,2025-09-16,VendorD,6549.56,USD,Marketing,Purchase,,0,Monthly subscription fee
+TXN000655,2025-03-17,VendorD,21187.32,USD,Finance,Refund,Approved,0,Purchase of office supplies
+TXN000656,2025-08-21,VendorB,52319.56,USD,Marketing,Purchase,Approved,0,Regular payment for services
+TXN000657,2025-03-19,VendorA,22161.72,USD,Finance,Transfer,Pending,0,High risk international transaction
+TXN000658,2025-03-16,VendorA,40718.56,USD,Marketing,Purchase,,0,Monthly subscription fee
+TXN000659,2025-09-03,VendorB,94743.04,USD,Finance,Transfer,Approved,0,High risk international transaction
+TXN000660,2026-03-09,VendorA,72186.4,USD,HR,Refund,Rejected,1,Regular payment for services
+TXN000661,2025-12-06,VendorA,27345.51,USD,Operations,Payment,Approved,0,Monthly subscription fee
+TXN000662,2026-03-02,VendorA,26495.43,USD,Marketing,Purchase,Approved,0,Regular payment for services
+TXN000663,2025-07-16,VendorE,88201.47,USD,Marketing,Purchase,Approved,0,Monthly subscription fee
+TXN000664,2025-08-14,VendorA,65188.31,USD,IT,Payment,Rejected,0,Standard vendor payment
+TXN000665,2025-05-18,VendorE,58124.77,USD,Marketing,Transfer,Pending,0,Regular payment for services
+TXN000666,2025-10-28,VendorB,40953.39,USD,IT,Refund,Rejected,0,Monthly subscription fee
+TXN000667,2025-12-08,VendorB,68257.57,USD,IT,Refund,Pending,0,Regular payment for services
+TXN000668,2025-04-21,VendorD,79811.78,USD,Operations,Refund,Pending,0,Unusual large amount transfer
+TXN000669,2025-06-26,VendorE,48477.06,USD,Operations,Payment,Pending,0,Unusual large amount transfer
+TXN000670,2025-08-05,VendorC,79597.18,USD,HR,Payment,,0,High risk international transaction
+TXN000671,2025-06-02,VendorC,47105.45,USD,IT,Transfer,Approved,0,Monthly subscription fee
+TXN000672,2025-06-28,VendorE,77210.92,USD,Marketing,Purchase,Pending,1,Standard vendor payment
+TXN000673,2025-08-22,VendorD,66251.04,USD,Operations,Payment,,0,Regular payment for services
+TXN000674,2025-10-28,VendorC,66188.29,USD,IT,Refund,Approved,0,Standard vendor payment
+TXN000675,2025-12-02,VendorC,20205.48,USD,HR,Payment,Approved,0,Urgent wire transfer overseas
+TXN000676,2025-08-25,VendorC,95329.04,USD,IT,Purchase,Pending,0,Regular payment for services
+TXN000677,2025-09-10,VendorC,307.35,USD,Finance,Payment,Rejected,0,High risk international transaction
+TXN000678,2026-03-09,VendorE,26776.37,USD,HR,Refund,Approved,0,Purchase of office supplies
+TXN000679,2026-02-09,VendorC,73029.95,USD,IT,Payment,,0,Unusual large amount transfer
+TXN000680,2026-01-24,VendorA,18484.55,USD,Marketing,Transfer,Approved,1,Unusual large amount transfer
+TXN000681,2025-09-15,VendorC,34867.62,USD,IT,Purchase,Approved,0,Standard vendor payment
+TXN000682,2025-06-18,VendorB,18743.4,USD,IT,Refund,Pending,0,Standard vendor payment
+TXN000683,2025-04-23,VendorD,20886.19,USD,Finance,Purchase,,0,Standard vendor payment
+TXN000684,2025-04-05,VendorB,25991.45,USD,Finance,Transfer,Approved,0,Standard vendor payment
+TXN000685,2025-09-26,VendorD,79457.46,USD,HR,Payment,Pending,0,Unusual large amount transfer
+TXN000686,2025-12-21,VendorC,93037.71,USD,HR,Refund,,0,High risk international transaction
+TXN000687,2025-05-06,VendorE,27190.99,USD,IT,Purchase,Approved,0,Unusual large amount transfer
+TXN000688,2025-12-23,VendorC,88688.92,USD,Operations,Transfer,,0,Standard vendor payment
+TXN000689,2025-05-27,VendorE,53739.95,USD,IT,Transfer,Pending,0,Regular payment for services
+TXN000690,2025-09-12,VendorB,27752.86,USD,IT,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000691,2025-11-09,VendorD,1657.65,USD,HR,Payment,Approved,0,Unusual large amount transfer
+TXN000692,2026-02-09,VendorD,48707.5,USD,Finance,Transfer,,0,Urgent wire transfer overseas
+TXN000693,2025-12-22,VendorD,43075.0,USD,Operations,Transfer,Approved,1,Standard vendor payment
+TXN000694,2025-10-16,VendorB,23247.79,USD,Finance,Payment,Approved,0,Purchase of office supplies
+TXN000695,2026-03-06,VendorC,67071.01,USD,IT,Transfer,Pending,0,Regular payment for services
+TXN000696,2025-06-13,VendorB,84703.61,USD,HR,Purchase,,0,Standard vendor payment
+TXN000697,2026-03-09,VendorC,91351.87,USD,Operations,Purchase,Pending,0,Unusual large amount transfer
+TXN000698,2025-07-16,VendorB,10944.87,USD,Operations,Transfer,,1,Monthly subscription fee
+TXN000699,2025-07-16,VendorE,85496.31,USD,HR,Transfer,,0,Monthly subscription fee
+TXN000700,2025-07-13,VendorB,92118.66,USD,Operations,Transfer,Pending,0,Unusual large amount transfer
+TXN000701,2025-05-30,VendorE,78530.67,USD,IT,Refund,Pending,1,Unusual large amount transfer
+TXN000702,2025-04-29,VendorE,59890.44,USD,Finance,Payment,Rejected,0,Regular payment for services
+TXN000703,2025-11-21,VendorE,28599.77,USD,HR,Transfer,Pending,0,Monthly subscription fee
+TXN000704,2026-02-04,VendorA,92728.27,USD,HR,Refund,Pending,0,Monthly subscription fee
+TXN000705,2026-01-09,VendorA,9790.87,USD,Operations,Refund,Approved,0,Standard vendor payment
+TXN000706,2025-10-29,VendorA,47208.95,USD,Marketing,Transfer,Rejected,0,Regular payment for services
+TXN000707,2025-06-24,VendorA,57361.94,USD,Finance,Refund,Approved,1,High risk international transaction
+TXN000708,2025-12-12,VendorE,98445.9,USD,Finance,Refund,,0,Unusual large amount transfer
+TXN000709,2025-08-21,VendorC,34069.61,USD,HR,Purchase,,0,Regular payment for services
+TXN000710,2026-02-02,VendorE,66550.29,USD,Operations,Purchase,,0,Standard vendor payment
+TXN000711,2026-01-11,VendorB,50813.14,USD,IT,Purchase,,0,Monthly subscription fee
+TXN000712,2025-06-20,VendorD,23827.7,USD,HR,Purchase,Rejected,1,Unusual large amount transfer
+TXN000713,2025-04-15,VendorB,50957.59,USD,HR,Purchase,Rejected,0,Standard vendor payment
+TXN000714,2025-11-07,VendorD,7369.0,USD,IT,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000715,2026-02-08,VendorB,98089.02,USD,Operations,Payment,Rejected,0,Standard vendor payment
+TXN000716,2026-03-10,VendorC,33329.68,USD,Marketing,Transfer,Approved,1,Standard vendor payment
+TXN000717,2025-08-13,VendorB,11871.37,USD,Operations,Purchase,,0,Urgent wire transfer overseas
+TXN000718,2025-03-21,VendorB,40817.54,USD,IT,Transfer,Rejected,0,Regular payment for services
+TXN000719,2025-07-10,VendorC,94717.72,USD,Marketing,Refund,Pending,0,Urgent wire transfer overseas
+TXN000720,2025-11-26,VendorE,3735.07,USD,Finance,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000721,2025-11-07,VendorD,39538.85,USD,HR,Transfer,,0,Regular payment for services
+TXN000722,2025-10-21,VendorC,10796.05,USD,Marketing,Transfer,,0,Unusual large amount transfer
+TXN000723,2025-08-28,VendorB,81050.95,USD,Marketing,Transfer,Rejected,1,Monthly subscription fee
+TXN000724,2025-10-04,VendorD,92139.53,USD,Marketing,Purchase,Rejected,0,Purchase of office supplies
+TXN000725,2025-04-30,VendorA,91095.37,USD,Operations,Refund,Rejected,0,Purchase of office supplies
+TXN000726,2025-07-19,VendorA,39661.21,USD,Finance,Refund,Pending,0,Urgent wire transfer overseas
+TXN000727,2026-02-01,VendorC,78621.84,USD,Operations,Purchase,,0,Regular payment for services
+TXN000728,2025-08-25,VendorC,54462.68,USD,Finance,Transfer,Rejected,0,Purchase of office supplies
+TXN000729,2026-02-03,VendorB,13932.42,USD,IT,Purchase,Pending,0,Standard vendor payment
+TXN000730,2026-01-31,VendorB,21003.74,USD,Operations,Refund,Pending,1,Unusual large amount transfer
+TXN000731,2026-03-13,VendorE,66892.43,USD,Marketing,Refund,Pending,0,Urgent wire transfer overseas
+TXN000732,2025-05-04,VendorA,55297.64,USD,IT,Payment,Approved,0,Regular payment for services
+TXN000733,2025-07-28,VendorB,20022.72,USD,HR,Transfer,,0,Unusual large amount transfer
+TXN000734,2025-05-25,VendorA,30349.1,USD,Marketing,Purchase,Pending,0,Monthly subscription fee
+TXN000735,2025-09-19,VendorC,70341.73,USD,HR,Transfer,Pending,0,Unusual large amount transfer
+TXN000736,2025-05-22,VendorD,87920.28,USD,Operations,Refund,Pending,0,High risk international transaction
+TXN000737,2025-08-05,VendorB,86724.93,USD,Marketing,Payment,,0,Monthly subscription fee
+TXN000738,2025-10-09,VendorB,76626.89,USD,Marketing,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000739,2025-07-08,VendorA,70582.71,USD,IT,Payment,Rejected,0,Monthly subscription fee
+TXN000740,2025-04-30,VendorB,2604.33,USD,HR,Purchase,Pending,0,High risk international transaction
+TXN000741,2026-02-06,VendorB,90080.82,USD,Marketing,Payment,,0,Urgent wire transfer overseas
+TXN000742,2025-06-01,VendorC,78179.9,USD,Marketing,Purchase,Rejected,1,Unusual large amount transfer
+TXN000743,2025-11-22,VendorE,3966.53,USD,Marketing,Payment,Rejected,0,Purchase of office supplies
+TXN000744,2025-09-03,VendorA,35573.53,USD,HR,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000745,2025-05-18,VendorB,29116.42,USD,HR,Transfer,Approved,0,Purchase of office supplies
+TXN000746,2025-10-18,VendorD,39710.51,USD,Marketing,Purchase,,0,Purchase of office supplies
+TXN000747,2025-09-03,VendorA,10662.77,USD,Operations,Transfer,Rejected,1,Urgent wire transfer overseas
+TXN000748,2025-10-09,VendorD,31638.24,USD,Marketing,Transfer,Pending,0,Regular payment for services
+TXN000749,2025-04-25,VendorE,915.24,USD,Operations,Refund,Pending,0,Regular payment for services
+TXN000750,2025-10-01,VendorA,89588.26,USD,IT,Refund,Rejected,0,Standard vendor payment
+TXN000751,2026-02-19,VendorC,15422.61,USD,Marketing,Transfer,,0,Standard vendor payment
+TXN000752,2025-10-19,VendorD,50621.81,USD,IT,Payment,Rejected,0,High risk international transaction
+TXN000753,2025-11-17,VendorD,74184.75,USD,Operations,Transfer,,0,Regular payment for services
+TXN000754,2026-02-01,VendorA,4545.86,USD,Marketing,Purchase,Pending,0,Purchase of office supplies
+TXN000755,2025-12-08,VendorA,3539.71,USD,IT,Transfer,Approved,0,Standard vendor payment
+TXN000756,2025-06-07,VendorA,71130.25,USD,IT,Transfer,Approved,0,Purchase of office supplies
+TXN000757,2025-12-26,VendorD,55821.77,USD,HR,Transfer,Rejected,0,Regular payment for services
+TXN000758,2025-07-07,VendorE,86626.01,USD,Marketing,Transfer,Rejected,0,Standard vendor payment
+TXN000759,2025-08-16,VendorD,58521.88,USD,HR,Payment,Approved,0,Monthly subscription fee
+TXN000760,2025-05-11,VendorA,43239.23,USD,Finance,Payment,,0,High risk international transaction
+TXN000761,2025-10-13,VendorC,6423.41,USD,Operations,Refund,Approved,0,Regular payment for services
+TXN000762,2025-03-31,VendorC,37848.94,USD,Operations,Payment,Approved,1,High risk international transaction
+TXN000763,2025-11-17,VendorA,34359.48,USD,HR,Purchase,Pending,0,Purchase of office supplies
+TXN000764,2025-04-06,VendorB,82694.0,USD,HR,Refund,Approved,1,Urgent wire transfer overseas
+TXN000765,2025-04-28,VendorA,47218.82,USD,IT,Refund,Rejected,0,High risk international transaction
+TXN000766,2025-05-29,VendorE,39913.07,USD,IT,Payment,Rejected,0,Standard vendor payment
+TXN000767,2025-12-25,VendorC,58438.78,USD,HR,Payment,Approved,0,Regular payment for services
+TXN000768,2025-11-02,VendorC,88008.46,USD,Operations,Payment,Rejected,0,Purchase of office supplies
+TXN000769,2025-10-16,VendorA,38468.37,USD,Finance,Refund,Approved,0,High risk international transaction
+TXN000770,2025-06-18,VendorE,94550.56,USD,Operations,Purchase,,0,Regular payment for services
+TXN000771,2025-12-28,VendorC,27129.24,USD,IT,Payment,,0,Monthly subscription fee
+TXN000772,2025-05-15,VendorA,56450.53,USD,Finance,Transfer,Approved,0,Standard vendor payment
+TXN000773,2026-03-06,VendorC,83067.44,USD,Marketing,Transfer,Rejected,0,Monthly subscription fee
+TXN000774,2025-05-06,VendorD,34099.64,USD,Marketing,Refund,Approved,0,High risk international transaction
+TXN000775,2025-08-02,VendorD,37333.99,USD,Finance,Refund,,0,Regular payment for services
+TXN000776,2025-11-03,VendorD,70469.73,USD,Operations,Refund,Approved,0,Urgent wire transfer overseas
+TXN000777,2025-12-03,VendorC,75890.65,USD,Finance,Transfer,,0,Monthly subscription fee
+TXN000778,2025-08-31,VendorC,97366.78,USD,Marketing,Payment,Rejected,0,Standard vendor payment
+TXN000779,2025-06-22,VendorA,10118.32,USD,HR,Purchase,Rejected,0,Regular payment for services
+TXN000780,2025-11-30,VendorA,86929.12,USD,HR,Transfer,,1,Purchase of office supplies
+TXN000781,2025-09-21,VendorC,48581.83,USD,IT,Purchase,Approved,0,Monthly subscription fee
+TXN000782,2025-05-06,VendorB,58016.32,USD,HR,Refund,Approved,0,High risk international transaction
+TXN000783,2026-01-11,VendorC,4513.26,USD,Operations,Payment,,0,Standard vendor payment
+TXN000784,2026-03-12,VendorC,26535.93,USD,Operations,Payment,,0,High risk international transaction
+TXN000785,2025-11-13,VendorE,69273.36,USD,HR,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000786,2025-11-17,VendorD,5029.71,USD,Operations,Transfer,Approved,0,Monthly subscription fee
+TXN000787,2025-11-27,VendorA,81637.0,USD,Marketing,Refund,Rejected,0,Urgent wire transfer overseas
+TXN000788,2025-05-01,VendorE,52884.02,USD,Marketing,Transfer,Approved,1,Standard vendor payment
+TXN000789,2026-02-09,VendorC,56132.14,USD,HR,Payment,Pending,0,Unusual large amount transfer
+TXN000790,2025-08-10,VendorB,40725.79,USD,Finance,Purchase,Rejected,0,High risk international transaction
+TXN000791,2026-02-24,VendorA,78042.78,USD,Operations,Purchase,Pending,0,Purchase of office supplies
+TXN000792,2025-06-23,VendorB,84098.74,USD,Finance,Payment,Approved,0,Urgent wire transfer overseas
+TXN000793,2025-10-01,VendorB,91878.96,USD,Marketing,Transfer,,0,Regular payment for services
+TXN000794,2025-04-04,VendorD,81979.8,USD,HR,Purchase,Approved,0,Unusual large amount transfer
+TXN000795,2025-07-06,VendorE,85902.42,USD,Finance,Purchase,Rejected,0,Purchase of office supplies
+TXN000796,2025-03-18,VendorA,59971.49,USD,Finance,Transfer,Approved,0,Standard vendor payment
+TXN000797,2025-04-07,VendorE,36198.18,USD,Marketing,Refund,Approved,0,Purchase of office supplies
+TXN000798,2025-09-23,VendorC,28117.75,USD,Finance,Purchase,,0,Urgent wire transfer overseas
+TXN000799,2025-10-26,VendorC,408.39,USD,IT,Purchase,Rejected,0,Regular payment for services
+TXN000800,2025-09-16,VendorE,43845.89,USD,Finance,Payment,Pending,0,High risk international transaction
+TXN000801,2025-11-23,VendorB,900.65,USD,HR,Refund,,0,Monthly subscription fee
+TXN000802,2025-06-02,VendorD,13083.51,USD,Finance,Purchase,Approved,0,Regular payment for services
+TXN000803,2025-09-21,VendorD,62114.36,USD,Operations,Refund,,0,Purchase of office supplies
+TXN000804,2025-04-05,VendorE,44738.92,USD,Finance,Transfer,Rejected,0,Purchase of office supplies
+TXN000805,2025-07-15,VendorD,99562.72,USD,HR,Payment,Approved,0,Monthly subscription fee
+TXN000806,2025-10-01,VendorA,62133.26,USD,IT,Payment,Approved,0,Unusual large amount transfer
+TXN000807,2025-10-06,VendorC,35738.69,USD,IT,Transfer,,0,Standard vendor payment
+TXN000808,2025-11-07,VendorB,98897.33,USD,Operations,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000809,2025-08-25,VendorD,27489.57,USD,Finance,Purchase,Pending,0,Monthly subscription fee
+TXN000810,2025-12-22,VendorE,67084.07,USD,HR,Refund,Rejected,0,Standard vendor payment
+TXN000811,2025-09-13,VendorB,29479.33,USD,Operations,Refund,Approved,1,Standard vendor payment
+TXN000812,2025-07-02,VendorE,25198.11,USD,IT,Purchase,Pending,0,Purchase of office supplies
+TXN000813,2025-07-16,VendorA,87971.0,USD,Operations,Purchase,Rejected,0,Regular payment for services
+TXN000814,2025-05-09,VendorD,37329.37,USD,IT,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000815,2025-11-08,VendorD,43702.98,USD,IT,Payment,Approved,0,Unusual large amount transfer
+TXN000816,2025-08-29,VendorE,95772.45,USD,HR,Purchase,Pending,1,Unusual large amount transfer
+TXN000817,2025-03-29,VendorB,21285.39,USD,Operations,Refund,,0,Monthly subscription fee
+TXN000818,2025-08-19,VendorC,86842.52,USD,IT,Payment,,0,High risk international transaction
+TXN000819,2025-05-29,VendorC,76604.87,USD,Finance,Transfer,,1,High risk international transaction
+TXN000820,2025-03-28,VendorD,91229.52,USD,Marketing,Purchase,Approved,0,Purchase of office supplies
+TXN000821,2025-03-31,VendorD,35543.6,USD,Marketing,Transfer,Pending,0,High risk international transaction
+TXN000822,2025-10-04,VendorB,56908.6,USD,Marketing,Payment,Rejected,0,Unusual large amount transfer
+TXN000823,2025-08-17,VendorA,1678.86,USD,HR,Payment,Approved,0,Monthly subscription fee
+TXN000824,2025-03-18,VendorA,84475.92,USD,Operations,Purchase,Rejected,0,High risk international transaction
+TXN000825,2025-04-17,VendorC,76509.26,USD,Marketing,Transfer,Rejected,0,High risk international transaction
+TXN000826,2025-12-09,VendorB,91874.55,USD,Operations,Purchase,Approved,0,Urgent wire transfer overseas
+TXN000827,2025-09-04,VendorE,88839.62,USD,HR,Transfer,Pending,0,Standard vendor payment
+TXN000828,2025-04-16,VendorE,81356.06,USD,IT,Payment,Approved,0,Regular payment for services
+TXN000829,2026-01-13,VendorD,42134.96,USD,Marketing,Payment,Approved,0,Standard vendor payment
+TXN000830,2025-03-24,VendorD,40423.83,USD,IT,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000831,2025-07-29,VendorE,6292.75,USD,IT,Payment,Pending,0,Regular payment for services
+TXN000832,2025-10-21,VendorC,16732.73,USD,HR,Payment,,1,High risk international transaction
+TXN000833,2025-03-23,VendorD,8745.22,USD,Operations,Purchase,Rejected,0,Purchase of office supplies
+TXN000834,2025-12-10,VendorB,93866.91,USD,HR,Refund,Pending,0,Regular payment for services
+TXN000835,2026-02-14,VendorB,52209.55,USD,HR,Refund,Rejected,0,Monthly subscription fee
+TXN000836,2025-11-10,VendorA,54273.14,USD,HR,Refund,Rejected,0,Purchase of office supplies
+TXN000837,2025-12-06,VendorA,16826.98,USD,IT,Payment,,0,High risk international transaction
+TXN000838,2025-06-23,VendorB,73188.94,USD,Marketing,Payment,Pending,0,Regular payment for services
+TXN000839,2026-03-08,VendorB,6138.51,USD,IT,Payment,,0,Standard vendor payment
+TXN000840,2025-08-23,VendorA,16107.49,USD,HR,Transfer,Approved,0,Purchase of office supplies
+TXN000841,2025-12-11,VendorA,42754.73,USD,Finance,Payment,,0,Purchase of office supplies
+TXN000842,2025-04-15,VendorB,57506.27,USD,IT,Purchase,Approved,0,Regular payment for services
+TXN000843,2025-03-22,VendorB,68021.16,USD,Finance,Transfer,,0,Urgent wire transfer overseas
+TXN000844,2025-12-21,VendorC,92585.78,USD,HR,Transfer,,1,Regular payment for services
+TXN000845,2026-01-31,VendorB,61145.48,USD,HR,Payment,,0,Regular payment for services
+TXN000846,2025-11-09,VendorB,59868.07,USD,Operations,Refund,Rejected,0,Purchase of office supplies
+TXN000847,2025-07-07,VendorB,46447.11,USD,Marketing,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000848,2026-02-04,VendorC,75820.75,USD,Marketing,Transfer,Pending,0,Purchase of office supplies
+TXN000849,2025-12-19,VendorE,96311.92,USD,Operations,Purchase,Approved,1,Standard vendor payment
+TXN000850,2025-09-05,VendorA,23968.27,USD,IT,Purchase,Pending,0,Regular payment for services
+TXN000851,2025-08-18,VendorB,63351.68,USD,Finance,Refund,Rejected,0,Unusual large amount transfer
+TXN000852,2025-05-30,VendorD,56820.83,USD,Finance,Transfer,Rejected,0,Standard vendor payment
+TXN000853,2026-03-13,VendorC,48311.45,USD,IT,Refund,Pending,1,Standard vendor payment
+TXN000854,2025-08-19,VendorA,20332.16,USD,HR,Purchase,Rejected,0,High risk international transaction
+TXN000855,2025-06-08,VendorA,7906.1,USD,Operations,Transfer,Rejected,0,Urgent wire transfer overseas
+TXN000856,2025-11-24,VendorD,36796.1,USD,HR,Payment,Approved,0,Urgent wire transfer overseas
+TXN000857,2025-12-10,VendorD,46034.19,USD,Operations,Payment,Pending,0,High risk international transaction
+TXN000858,2025-05-03,VendorE,1192.32,USD,HR,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000859,2025-09-21,VendorB,7557.62,USD,Finance,Payment,Pending,0,High risk international transaction
+TXN000860,2025-08-13,VendorB,18723.5,USD,IT,Payment,Approved,0,High risk international transaction
+TXN000861,2025-11-18,VendorA,95217.52,USD,IT,Payment,Pending,0,Standard vendor payment
+TXN000862,2026-02-04,VendorA,99116.53,USD,Operations,Payment,Approved,0,Unusual large amount transfer
+TXN000863,2025-07-03,VendorB,38442.4,USD,HR,Purchase,Rejected,0,Unusual large amount transfer
+TXN000864,2025-11-26,VendorD,19111.29,USD,Marketing,Purchase,,0,Monthly subscription fee
+TXN000865,2025-12-12,VendorC,34918.22,USD,HR,Purchase,Pending,0,Regular payment for services
+TXN000866,2025-08-04,VendorC,15439.31,USD,Operations,Transfer,Approved,0,Regular payment for services
+TXN000867,2025-11-10,VendorD,27483.26,USD,HR,Purchase,,0,Monthly subscription fee
+TXN000868,2026-03-15,VendorC,39658.38,USD,Operations,Payment,Pending,0,Standard vendor payment
+TXN000869,2026-01-04,VendorD,86475.72,USD,IT,Payment,Approved,0,Unusual large amount transfer
+TXN000870,2025-08-13,VendorA,93128.59,USD,IT,Payment,Pending,0,Urgent wire transfer overseas
+TXN000871,2025-10-19,VendorE,93666.27,USD,Finance,Refund,,0,Unusual large amount transfer
+TXN000872,2025-11-16,VendorB,9915.9,USD,Finance,Refund,,0,Monthly subscription fee
+TXN000873,2025-07-17,VendorE,62553.28,USD,Marketing,Refund,Rejected,0,High risk international transaction
+TXN000874,2025-09-08,VendorE,87380.61,USD,Operations,Purchase,Rejected,0,High risk international transaction
+TXN000875,2025-07-23,VendorB,70455.11,USD,IT,Payment,Pending,0,Purchase of office supplies
+TXN000876,2025-10-30,VendorE,78557.06,USD,Finance,Refund,Rejected,0,Regular payment for services
+TXN000877,2025-09-07,VendorB,34985.7,USD,IT,Refund,,0,Unusual large amount transfer
+TXN000878,2026-01-12,VendorA,4504.03,USD,Finance,Payment,Approved,0,Standard vendor payment
+TXN000879,2025-10-09,VendorB,36578.47,USD,IT,Refund,Pending,0,Regular payment for services
+TXN000880,2025-11-20,VendorD,38365.76,USD,Marketing,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000881,2025-09-20,VendorE,10857.08,USD,IT,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000882,2025-11-03,VendorB,34484.99,USD,Operations,Transfer,Approved,0,High risk international transaction
+TXN000883,2026-03-02,VendorA,33912.62,USD,Marketing,Payment,Approved,0,Urgent wire transfer overseas
+TXN000884,2025-09-18,VendorC,39378.3,USD,IT,Refund,,0,Regular payment for services
+TXN000885,2025-09-17,VendorD,87610.09,USD,IT,Purchase,Rejected,1,High risk international transaction
+TXN000886,2025-04-06,VendorC,59398.51,USD,Operations,Refund,Approved,0,Regular payment for services
+TXN000887,2025-08-28,VendorD,90316.99,USD,Marketing,Refund,Rejected,0,Urgent wire transfer overseas
+TXN000888,2025-06-18,VendorE,93610.12,USD,Finance,Purchase,Approved,0,High risk international transaction
+TXN000889,2025-12-24,VendorB,24530.62,USD,HR,Payment,Approved,0,High risk international transaction
+TXN000890,2025-06-25,VendorB,66385.26,USD,Operations,Refund,,0,Purchase of office supplies
+TXN000891,2025-07-12,VendorB,75067.37,USD,HR,Payment,Pending,0,Standard vendor payment
+TXN000892,2025-10-20,VendorE,29.76,USD,Marketing,Purchase,,0,Standard vendor payment
+TXN000893,2025-10-02,VendorA,73427.21,USD,Marketing,Transfer,Rejected,0,Purchase of office supplies
+TXN000894,2025-04-14,VendorD,72445.89,USD,Marketing,Transfer,Rejected,0,Regular payment for services
+TXN000895,2025-09-08,VendorA,83704.67,USD,Marketing,Refund,Approved,0,Standard vendor payment
+TXN000896,2025-04-16,VendorD,89880.69,USD,Operations,Payment,,0,Regular payment for services
+TXN000897,2025-06-01,VendorA,44583.54,USD,HR,Transfer,Approved,0,Standard vendor payment
+TXN000898,2025-05-29,VendorE,33429.97,USD,Marketing,Transfer,,0,Purchase of office supplies
+TXN000899,2025-04-28,VendorD,49500.79,USD,HR,Refund,Approved,0,Standard vendor payment
+TXN000900,2025-10-18,VendorA,7623.1,USD,Operations,Purchase,Approved,0,Monthly subscription fee
+TXN000901,2025-06-04,VendorB,77412.08,USD,HR,Refund,,0,Regular payment for services
+TXN000902,2025-09-08,VendorC,65001.69,USD,Marketing,Payment,Rejected,0,Urgent wire transfer overseas
+TXN000903,2025-11-15,VendorE,3332.76,USD,Operations,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000904,2025-08-11,VendorB,25667.51,USD,Operations,Payment,,0,Standard vendor payment
+TXN000905,2025-12-26,VendorE,37765.95,USD,Finance,Transfer,Pending,0,Purchase of office supplies
+TXN000906,2025-07-27,VendorD,11724.92,USD,Finance,Payment,Approved,0,High risk international transaction
+TXN000907,2025-07-11,VendorD,43508.38,USD,HR,Payment,,0,Purchase of office supplies
+TXN000908,2025-05-20,VendorA,20197.01,USD,Finance,Transfer,,0,Regular payment for services
+TXN000909,2026-01-25,VendorC,99452.5,USD,Marketing,Purchase,Pending,0,Urgent wire transfer overseas
+TXN000910,2025-04-08,VendorB,10075.54,USD,Operations,Purchase,,0,Regular payment for services
+TXN000911,2025-07-01,VendorD,46393.14,USD,IT,Transfer,Rejected,0,Unusual large amount transfer
+TXN000912,2025-12-28,VendorC,23640.68,USD,Marketing,Purchase,Pending,0,Unusual large amount transfer
+TXN000913,2025-11-18,VendorA,77178.24,USD,Finance,Purchase,Pending,0,Monthly subscription fee
+TXN000914,2025-11-15,VendorE,2418.14,USD,IT,Transfer,,0,Regular payment for services
+TXN000915,2026-01-06,VendorA,18398.08,USD,Finance,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000916,2025-06-27,VendorD,22835.81,USD,Marketing,Payment,Pending,1,Standard vendor payment
+TXN000917,2025-05-30,VendorA,17599.11,USD,Finance,Payment,Rejected,0,Standard vendor payment
+TXN000918,2025-04-05,VendorA,74088.98,USD,IT,Transfer,,0,Regular payment for services
+TXN000919,2026-02-28,VendorA,18405.99,USD,Marketing,Purchase,Pending,0,High risk international transaction
+TXN000920,2025-12-12,VendorB,95779.59,USD,IT,Transfer,Rejected,0,High risk international transaction
+TXN000921,2026-02-17,VendorD,26678.96,USD,HR,Transfer,Rejected,0,Unusual large amount transfer
+TXN000922,2025-09-18,VendorD,62348.31,USD,Marketing,Purchase,,1,Unusual large amount transfer
+TXN000923,2025-09-25,VendorC,47312.01,USD,IT,Payment,Rejected,0,Monthly subscription fee
+TXN000924,2025-06-10,VendorD,31290.55,USD,Finance,Payment,Rejected,0,Unusual large amount transfer
+TXN000925,2025-12-27,VendorA,8201.49,USD,IT,Purchase,Approved,0,Regular payment for services
+TXN000926,2025-07-22,VendorB,88705.86,USD,IT,Purchase,Rejected,0,Monthly subscription fee
+TXN000927,2025-04-19,VendorB,85752.99,USD,IT,Refund,Approved,0,Monthly subscription fee
+TXN000928,2025-11-16,VendorE,50532.83,USD,IT,Payment,,0,Monthly subscription fee
+TXN000929,2025-05-08,VendorE,40745.64,USD,Operations,Refund,Pending,0,Monthly subscription fee
+TXN000930,2025-11-13,VendorA,37149.04,USD,Marketing,Payment,,0,Purchase of office supplies
+TXN000931,2025-09-22,VendorA,27531.55,USD,HR,Transfer,Pending,0,Monthly subscription fee
+TXN000932,2025-11-05,VendorA,60634.51,USD,HR,Transfer,Rejected,0,Standard vendor payment
+TXN000933,2025-09-23,VendorA,29352.33,USD,Marketing,Purchase,Pending,0,Purchase of office supplies
+TXN000934,2025-08-13,VendorC,63383.37,USD,IT,Purchase,Approved,0,Regular payment for services
+TXN000935,2025-12-28,VendorE,32767.03,USD,Marketing,Payment,Approved,1,Purchase of office supplies
+TXN000936,2025-08-25,VendorD,80771.62,USD,Finance,Purchase,Approved,0,Monthly subscription fee
+TXN000937,2025-09-06,VendorA,28915.89,USD,Finance,Payment,Rejected,0,High risk international transaction
+TXN000938,2025-08-09,VendorE,31119.97,USD,Finance,Purchase,Rejected,0,Monthly subscription fee
+TXN000939,2025-04-26,VendorB,8855.48,USD,IT,Payment,Rejected,0,Standard vendor payment
+TXN000940,2025-09-26,VendorB,95044.94,USD,Finance,Payment,Rejected,0,Standard vendor payment
+TXN000941,2025-05-05,VendorC,28090.59,USD,IT,Transfer,Approved,0,High risk international transaction
+TXN000942,2025-04-08,VendorA,80003.35,USD,IT,Transfer,,0,Purchase of office supplies
+TXN000943,2025-04-05,VendorA,75471.45,USD,Finance,Transfer,,0,Unusual large amount transfer
+TXN000944,2026-03-15,VendorB,57176.22,USD,HR,Purchase,,0,Regular payment for services
+TXN000945,2026-03-06,VendorB,49105.09,USD,HR,Transfer,Pending,0,Urgent wire transfer overseas
+TXN000946,2025-07-18,VendorE,38633.24,USD,Finance,Purchase,Approved,0,Purchase of office supplies
+TXN000947,2025-06-20,VendorE,96152.34,USD,IT,Payment,Approved,0,Urgent wire transfer overseas
+TXN000948,2025-05-28,VendorD,53289.77,USD,HR,Payment,Pending,0,Purchase of office supplies
+TXN000949,2026-01-07,VendorB,50592.78,USD,Marketing,Transfer,,0,Regular payment for services
+TXN000950,2025-04-19,VendorD,95763.98,USD,Operations,Payment,Rejected,0,Unusual large amount transfer
+TXN000951,2026-03-08,VendorD,47809.83,USD,Operations,Payment,,0,Regular payment for services
+TXN000952,2025-07-05,VendorD,44115.09,USD,Operations,Transfer,Rejected,0,Urgent wire transfer overseas
+TXN000953,2025-12-04,VendorE,41265.83,USD,Operations,Transfer,,0,High risk international transaction
+TXN000954,2025-04-11,VendorA,29150.92,USD,IT,Purchase,,0,Urgent wire transfer overseas
+TXN000955,2025-08-05,VendorB,9945.09,USD,Finance,Refund,Rejected,0,Monthly subscription fee
+TXN000956,2025-06-12,VendorD,118.25,USD,Operations,Transfer,Approved,0,Regular payment for services
+TXN000957,2025-11-27,VendorA,51715.79,USD,HR,Transfer,Rejected,0,Monthly subscription fee
+TXN000958,2025-05-08,VendorB,64256.51,USD,Operations,Refund,Approved,0,Regular payment for services
+TXN000959,2025-10-19,VendorC,5513.64,USD,HR,Refund,Approved,0,Standard vendor payment
+TXN000960,2025-12-07,VendorE,90843.28,USD,Operations,Payment,,0,Urgent wire transfer overseas
+TXN000961,2026-01-02,VendorE,67117.93,USD,HR,Refund,Rejected,0,Monthly subscription fee
+TXN000962,2025-10-12,VendorE,93721.84,USD,Marketing,Purchase,Rejected,0,Standard vendor payment
+TXN000963,2025-10-13,VendorB,7069.75,USD,Marketing,Purchase,Pending,0,Monthly subscription fee
+TXN000964,2025-07-04,VendorC,66034.68,USD,Finance,Purchase,Pending,0,Unusual large amount transfer
+TXN000965,2025-10-07,VendorA,33487.56,USD,Operations,Payment,Approved,0,High risk international transaction
+TXN000966,2025-04-04,VendorE,45548.14,USD,Finance,Purchase,Approved,0,Regular payment for services
+TXN000967,2025-12-17,VendorC,77983.72,USD,Operations,Refund,Approved,0,Standard vendor payment
+TXN000968,2025-10-22,VendorD,35829.18,USD,HR,Purchase,,0,Unusual large amount transfer
+TXN000969,2025-05-21,VendorB,67577.18,USD,IT,Payment,Pending,0,Purchase of office supplies
+TXN000970,2025-10-26,VendorE,98011.19,USD,Marketing,Payment,Rejected,0,High risk international transaction
+TXN000971,2025-04-20,VendorA,79553.16,USD,HR,Payment,Rejected,1,Standard vendor payment
+TXN000972,2026-03-09,VendorD,95335.84,USD,Marketing,Refund,,0,Urgent wire transfer overseas
+TXN000973,2025-11-24,VendorE,12601.85,USD,HR,Payment,,0,Unusual large amount transfer
+TXN000974,2025-03-20,VendorB,57097.51,USD,Marketing,Purchase,Rejected,0,Purchase of office supplies
+TXN000975,2025-03-19,VendorB,55972.27,USD,Marketing,Transfer,Approved,1,Standard vendor payment
+TXN000976,2025-12-24,VendorE,98227.12,USD,HR,Purchase,,0,Regular payment for services
+TXN000977,2025-12-23,VendorC,96145.64,USD,HR,Payment,Approved,0,Standard vendor payment
+TXN000978,2025-10-19,VendorE,88198.57,USD,HR,Refund,,0,Purchase of office supplies
+TXN000979,2026-02-04,VendorC,69029.75,USD,Finance,Payment,Approved,0,Urgent wire transfer overseas
+TXN000980,2026-01-12,VendorB,7214.1,USD,Operations,Refund,Pending,0,Unusual large amount transfer
+TXN000981,2025-05-15,VendorA,68957.12,USD,Marketing,Payment,Rejected,0,High risk international transaction
+TXN000982,2026-03-11,VendorC,17053.41,USD,HR,Purchase,,0,High risk international transaction
+TXN000983,2025-12-08,VendorA,60722.94,USD,Marketing,Transfer,Rejected,1,High risk international transaction
+TXN000984,2025-12-12,VendorB,86994.19,USD,Marketing,Purchase,Rejected,0,Standard vendor payment
+TXN000985,2026-02-24,VendorD,77511.11,USD,Finance,Purchase,,0,Standard vendor payment
+TXN000986,2025-09-15,VendorE,5726.04,USD,Finance,Payment,,0,Standard vendor payment
+TXN000987,2025-09-11,VendorE,35126.12,USD,Operations,Payment,Approved,0,Regular payment for services
+TXN000988,2025-10-17,VendorB,52052.46,USD,Finance,Refund,,0,Regular payment for services
+TXN000989,2025-12-22,VendorE,13710.24,USD,IT,Refund,Pending,0,Standard vendor payment
+TXN000990,2025-03-31,VendorB,73296.56,USD,Marketing,Payment,Pending,0,Urgent wire transfer overseas
+TXN000991,2026-01-29,VendorE,92044.07,USD,Finance,Transfer,,0,Urgent wire transfer overseas
+TXN000992,2025-11-30,VendorE,69164.55,USD,Marketing,Purchase,Approved,0,Purchase of office supplies
+TXN000993,2025-11-14,VendorE,83976.77,USD,Operations,Transfer,Approved,0,Urgent wire transfer overseas
+TXN000994,2025-12-04,VendorB,50691.7,USD,Finance,Refund,,0,Urgent wire transfer overseas
+TXN000995,2026-02-14,VendorA,50329.55,USD,Operations,Payment,Pending,0,Standard vendor payment
+TXN000996,2025-09-16,VendorB,42619.88,USD,Marketing,Purchase,Approved,0,Monthly subscription fee
+TXN000997,2025-11-25,VendorE,29020.32,USD,Finance,Purchase,Rejected,0,Urgent wire transfer overseas
+TXN000998,2026-01-06,VendorD,81021.36,USD,Marketing,Refund,,0,Regular payment for services
+TXN000999,2025-11-06,VendorA,32163.31,USD,Marketing,Payment,Pending,0,High risk international transaction
